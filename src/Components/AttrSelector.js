@@ -1,7 +1,8 @@
 import React from 'react'
-import Select from 'react-select'
+import { Dropdown } from 'semantic-ui-react'
 
-import { attributes } from '../constants/const'
+import { attributes, attrIconNames, attrBaseColors } from '../constants/const'
+import './AttrSelector.css'
 
 const weakness = {
   0: {
@@ -27,29 +28,49 @@ const weakness = {
   }
 }
 
-const options = attributes.map(item => {
-  return {value: item, label: item
+const options = attributes.map((item, idx) => {
+  return { 
+    key: idx, 
+    value: idx, 
+    text: item,
+    label: { 
+      color: attrBaseColors[idx], 
+      icon: attrIconNames[idx]
+    }
   }})
 
 export default class AttrSelector extends React.Component {
   state = {
-    selectedOption: null,
+    selectedOptions: null,
   }
-  handleChange = selectedOption => {
-    this.setState({ selectedOption });
-    console.log(`Option selected:`, selectedOption);
-  };
+  handleChange = (e, data) => {
+    e.preventDefault()
+    if (data.value.length > 2) {
+      data.value.shift()
+    }
+    this.setState({ selectedOptions: data.value }, ()=>{
+      console.log(`Option selected:`, JSON.stringify(this.state.selectedOptions, null, 4))      
+    })
+  }
+  renderLabel = (label) => ({
+    color: attrBaseColors[label.key],
+    content: label.text,
+    icon: attrIconNames[label.key] || 'question circle',
+  })
   render () {
-    const { selectedOption } = this.state
+    const { selectedOptions } = this.state
     return (
-      <div>
-            <Select
-              value={selectedOption}
-              onChange={this.handleChange}
-              options={options}
-              isSearchable
-              placeholder="屬性"
-            />
+      <div className="attr-selector">
+        <Dropdown
+          multiple
+          selection
+          fluid
+          search
+          options={options}
+          placeholder='Select attribute(s)'
+          renderLabel={this.renderLabel}
+          onChange={this.handleChange}
+        />
       </div>
     )
   }

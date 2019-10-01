@@ -64,7 +64,7 @@ function App () {
     <div className='App'>
       <header className='App-header'>
         <AttrSelector />
-        <HitMagTable hitMagnification={hitMagnification} />
+        <HitMagTable hitMagnification={hitMagnification} anemyAttr1={attrIdx1} anemyAttr2={attrIdx2} />
       </header>
     </div>
   )
