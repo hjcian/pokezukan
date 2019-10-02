@@ -10,7 +10,7 @@ const HitMagTable = ({ hitMagnification, anemyAttr1, anemyAttr2 }) => {
           <Table.Row>
             <Table.HeaderCell>我方屬性</Table.HeaderCell>
             <Table.HeaderCell>敵方屬性({attributes[anemyAttr1]})</Table.HeaderCell>
-            <Table.HeaderCell>敵方屬性({attributes[anemyAttr2]})</Table.HeaderCell>
+            {anemyAttr2 && <Table.HeaderCell>敵方屬性({attributes[anemyAttr2]})</Table.HeaderCell>}
             <Table.HeaderCell>總攻擊倍率</Table.HeaderCell>
           </Table.Row>
         </Table.Header>
@@ -21,7 +21,7 @@ const HitMagTable = ({ hitMagnification, anemyAttr1, anemyAttr2 }) => {
                 <Table.Row key={idx}>
                   <Table.Cell>{attributes[ele.ourAttr]}</Table.Cell>
                   <Table.Cell>{ele.mag1}</Table.Cell>
-                  <Table.Cell>{ele.mag2}</Table.Cell>
+                  {anemyAttr2 && <Table.Cell>{ele.mag2}</Table.Cell>}
                   <Table.Cell>{ele.hitMag}</Table.Cell>
                 </Table.Row>
               )

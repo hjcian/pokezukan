@@ -1,34 +1,10 @@
-import React from 'react'
+import React, { useState } from 'react'
 import './App.css'
 
 import HitMagTable from './Components/HitMagTable'
 import AttrSelector from './Components/AttrSelector'
 
-import { attributes } from './constants/const'
-
-const weakness = {
-  0: {
-    1: 2,
-    7: 0
-  },
-  1: {
-    2: 2,
-    5: 0.5,
-    6: 0.5,
-    13: 2,
-    16: 0.5,
-    17: 2
-  },
-  2: {
-    1: 0.5,
-    4: 0,
-    5: 2,
-    6: 0.5,
-    11: 0.5,
-    12: 2,
-    14: 2
-  }
-}
+import { attributes, weaknessMatrix } from './constants/const'
 
 function hitMagSorter (a, b) {
   if (a.hitMag > b.hitMag) return -1
@@ -39,31 +15,43 @@ function hitMagSorter (a, b) {
 }
 
 function App () {
-  const attrIdx1 = 1
-  const attrIdx2 = 2
+  const [anemyAttrs, setAttrs] = useState([])
+  console.log('start render...')
+  const attrIdx1 = anemyAttrs.length > 0 ? anemyAttrs[0] : null
+  const attrIdx2 = anemyAttrs.length > 1 ? anemyAttrs[1] : null
   const hitMagnification = attributes.map((attr, idx) => {
-    if ((weakness[attrIdx1][idx] !== undefined) || (weakness[attrIdx2][idx] !== undefined)) {
-      const mag1 = weakness[attrIdx1][idx] === undefined ? 1 : weakness[attrIdx1][idx]
-      const mag2 = weakness[attrIdx2][idx] === undefined ? 1 : weakness[attrIdx2][idx]
-      const hitMag = mag1 * mag2
-      return {
-        ourAttr: idx,
-        mag1,
-        mag2,
-        hitMag,
-        isShowing: true
+    let mag1 = 1
+    let mag2 = 1
+    if (attrIdx1 === null) {
+      return { isShowing: false }
+    } else if (attrIdx2 === null) {
+      if (weaknessMatrix[attrIdx1][idx] !== undefined) {
+        mag1 = weaknessMatrix[attrIdx1][idx] === undefined ? 1 : weaknessMatrix[attrIdx1][idx]
+      } else {
+        return { isShowing: false }
       }
+    } else if ((weaknessMatrix[attrIdx1][idx] !== undefined) || (weaknessMatrix[attrIdx2][idx] !== undefined)) {
+      mag1 = weaknessMatrix[attrIdx1][idx] === undefined ? 1 : weaknessMatrix[attrIdx1][idx]
+      mag2 = weaknessMatrix[attrIdx2][idx] === undefined ? 1 : weaknessMatrix[attrIdx2][idx]
     } else {
       return { isShowing: false }
+    }
+    const hitMag = mag1 * mag2
+    return {
+      ourAttr: idx,
+      mag1,
+      mag2,
+      hitMag,
+      isShowing: true
     }
   })
     .filter(ele => ele.isShowing)
     .sort(hitMagSorter)
-  console.log(JSON.stringify(hitMagnification, null, 4))
+  console.log(`Option selected: ${JSON.stringify(anemyAttrs, null, 4)}`)
   return (
     <div className='App'>
       <header className='App-header'>
-        <AttrSelector />
+        <AttrSelector setAttrs={setAttrs} />
         <HitMagTable hitMagnification={hitMagnification} anemyAttr1={attrIdx1} anemyAttr2={attrIdx2} />
       </header>
     </div>

@@ -49,6 +49,7 @@ export default class AttrSelector extends React.Component {
       data.value.shift()
     }
     this.setState({ selectedOptions: data.value }, ()=>{
+      this.props.setAttrs(this.state.selectedOptions)
       console.log(`Option selected:`, JSON.stringify(this.state.selectedOptions, null, 4))      
     })
   }
@@ -58,7 +59,6 @@ export default class AttrSelector extends React.Component {
     icon: attrIconNames[label.key] || 'question circle',
   })
   render () {
-    const { selectedOptions } = this.state
     return (
       <div className="attr-selector">
         <Dropdown
