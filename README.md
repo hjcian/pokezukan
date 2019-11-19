@@ -1,4 +1,6 @@
 # pokezukan
+## hosting
+- https://pokezukan.netlify.com/
 ## dev notes
 - [When to use Component or PureComponent](https://codeburst.io/when-to-use-component-or-purecomponent-a60cfad01a81)
 - [一些自己寫 React 的好習慣- lifecycle method 跟 state 管理](https://medium.com/@as790726/%E4%B8%80%E4%BA%9B%E8%87%AA%E5%B7%B1%E5%AF%AB-react-%E7%9A%84%E5%A5%BD%E7%BF%92%E6%85%A3-lifecycle-method-%E8%B7%9F-state-%E7%AE%A1%E7%90%86-b37a12da968b)
