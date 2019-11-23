@@ -30,17 +30,14 @@ const RenderEnemyHeadCell = ({ givenEnemyAttr }) => {
 const HitMagTableContent = ({ hitMagnification, enemyAttr1, enemyAttr2 }) => {
   return (
     <Table>
-      {
-        hitMagnification.length > 0 &&
-          <Table.Header>
-            <Table.Row>
-              <Table.HeaderCell>{HeadField()}</Table.HeaderCell>
-              <RenderEnemyHeadCell givenEnemyAttr={enemyAttr1} />
-              {enemyAttr2 && <RenderEnemyHeadCell givenEnemyAttr={enemyAttr2} />}
-              <Table.HeaderCell>{TotalMag}</Table.HeaderCell>
-            </Table.Row>
-          </Table.Header>
-      }
+      <Table.Header>
+        <Table.Row>
+          <Table.HeaderCell>{HeadField()}</Table.HeaderCell>
+          <RenderEnemyHeadCell givenEnemyAttr={enemyAttr1} />
+          {enemyAttr2 && <RenderEnemyHeadCell givenEnemyAttr={enemyAttr2} />}
+          <Table.HeaderCell>{TotalMag}</Table.HeaderCell>
+        </Table.Row>
+      </Table.Header>
       <Table.Body>
         {
           hitMagnification.map((ele, idx) => {

@@ -52,7 +52,10 @@ function App () {
     <div className='App'>
       <header className='App-header'>
         <AttrSelector setAttrs={setAttrs} />
-        <HitMagTable hitMagnification={hitMagnification} enemyAttr1={attrIdx1} enemyAttr2={attrIdx2} />
+        {
+          hitMagnification.length > 0 &&
+            <HitMagTable hitMagnification={hitMagnification} enemyAttr1={attrIdx1} enemyAttr2={attrIdx2} />
+        }
       </header>
     </div>
   )

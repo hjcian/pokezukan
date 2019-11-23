@@ -52,7 +52,7 @@ export default class AttrSelector extends React.Component {
   })
   render () {
     return (
-      <div>
+      <div className="attr-selector-container">
         <Responsive maxWidth={MobileBoundary-1}>
           <div className="attr-selector-mobile">
             <AttrSelectorContent  
