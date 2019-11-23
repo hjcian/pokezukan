@@ -6,7 +6,7 @@ import './HitMagTable.css'
 
 const HitMagTableContent = ({ hitMagnification, anemyAttr1, anemyAttr2 }) => {
   return (
-    <Table size='small' fixed>
+    <Table>
       <Table.Header>
         <Table.Row>
           <Table.HeaderCell>我方屬性</Table.HeaderCell>
