@@ -1,5 +1,5 @@
 import React from 'react'
-import { Dropdown } from 'semantic-ui-react'
+import { Dropdown, Responsive} from 'semantic-ui-react'
 
 import { attributes, attrIconNames, attrBaseColors } from '../constants/const'
 import './AttrSelector.css'
@@ -39,6 +39,22 @@ const options = attributes.map((item, idx) => {
     }
   }})
 
+const AttrSelectorContent = ({options, renderLabel, handleChange}) => {
+  return (
+    <Dropdown
+      multiple
+      selection
+      fluid
+      search
+      options={options}
+      placeholder='選擇敵方屬性'
+      renderLabel={renderLabel}
+      onChange={handleChange}
+    />
+  )
+}
+
+const MobileBoundary = 768
 export default class AttrSelector extends React.Component {
   state = {
     selectedOptions: null,
@@ -60,17 +76,25 @@ export default class AttrSelector extends React.Component {
   })
   render () {
     return (
-      <div className="attr-selector">
-        <Dropdown
-          multiple
-          selection
-          fluid
-          search
-          options={options}
-          placeholder='Select attribute(s)'
-          renderLabel={this.renderLabel}
-          onChange={this.handleChange}
-        />
+      <div>
+        <Responsive maxWidth={MobileBoundary-1}>
+          <div className="attr-selector-mobile">
+            <AttrSelectorContent  
+              options={options}
+              renderLabel={this.renderLabel}
+              handleChange={this.handleChange}
+              />
+          </div>
+        </Responsive>
+        <Responsive minWidth={MobileBoundary}>
+          <div className="attr-selector">
+            <AttrSelectorContent  
+              options={options}
+              renderLabel={this.renderLabel}
+              handleChange={this.handleChange}
+            />
+          </div>
+        </Responsive>
       </div>
     )
   }

@@ -1,3 +1,7 @@
 .attr-selector {
     width: 30vw;
 }
+
+.attr-selector-mobile {
+    width: 80vw;
+}
