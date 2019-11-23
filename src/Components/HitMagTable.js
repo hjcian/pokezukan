@@ -1,14 +1,15 @@
 import React from 'react'
 import { Table, Responsive, Label, Icon } from 'semantic-ui-react'
 import { attributes, attrIconNames, attrBaseColors } from '../constants/const'
+import HitMagTableMobileContent from './HitMagTableMobile'
 
 import './HitMagTable.css'
 
 const HeadField = () => {
   return (
     <div>
+      守方<Icon name='caret right' /><br />
       攻方<Icon name='caret down' />
-      守方<Icon name='caret right' />
     </div>
   )
 }
@@ -28,15 +29,18 @@ const RenderEnemyHeadCell = ({ givenEnemyAttr }) => {
 }
 const HitMagTableContent = ({ hitMagnification, enemyAttr1, enemyAttr2 }) => {
   return (
-    <Table singleLine>
-      <Table.Header>
-        <Table.Row>
-          <Table.HeaderCell>{HeadField()}</Table.HeaderCell>
-          <RenderEnemyHeadCell givenEnemyAttr={enemyAttr1} />
-          {enemyAttr2 && <RenderEnemyHeadCell givenEnemyAttr={enemyAttr2} />}
-          <Table.HeaderCell>{TotalMag}</Table.HeaderCell>
-        </Table.Row>
-      </Table.Header>
+    <Table>
+      {
+        hitMagnification.length > 0 &&
+          <Table.Header>
+            <Table.Row>
+              <Table.HeaderCell>{HeadField()}</Table.HeaderCell>
+              <RenderEnemyHeadCell givenEnemyAttr={enemyAttr1} />
+              {enemyAttr2 && <RenderEnemyHeadCell givenEnemyAttr={enemyAttr2} />}
+              <Table.HeaderCell>{TotalMag}</Table.HeaderCell>
+            </Table.Row>
+          </Table.Header>
+      }
       <Table.Body>
         {
           hitMagnification.map((ele, idx) => {
@@ -67,7 +71,7 @@ const HitMagTable = ({ hitMagnification, enemyAttr1, enemyAttr2 }) => {
     <div>
       <Responsive maxWidth={MobileBoundary - 1}>
         <div className='attr-magtable-mobile'>
-          <HitMagTableContent
+          <HitMagTableMobileContent
             hitMagnification={hitMagnification}
             enemyAttr1={enemyAttr1}
             enemyAttr2={enemyAttr2}

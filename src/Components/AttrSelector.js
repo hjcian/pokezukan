@@ -23,7 +23,7 @@ const AttrSelectorContent = ({options, renderLabel, handleChange}) => {
       fluid
       search
       options={options}
-      placeholder='選擇敵方屬性'
+      placeholder='選擇防守方屬性'
       renderLabel={renderLabel}
       onChange={handleChange}
     />
