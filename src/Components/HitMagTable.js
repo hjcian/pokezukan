@@ -1,18 +1,40 @@
 import React from 'react'
-import { Table, Responsive } from 'semantic-ui-react'
-import { attributes } from '../constants/const'
+import { Table, Responsive, Label, Icon } from 'semantic-ui-react'
+import { attributes, attrIconNames, attrBaseColors } from '../constants/const'
 
 import './HitMagTable.css'
 
-const HitMagTableContent = ({ hitMagnification, anemyAttr1, anemyAttr2 }) => {
+const HeadField = () => {
   return (
-    <Table>
+    <div>
+      攻方<Icon name='caret down' />
+      守方<Icon name='caret right' />
+    </div>
+  )
+}
+
+const TotalMag = '攻方總倍率'
+
+const RenderEnemyHeadCell = ({ givenEnemyAttr }) => {
+  return (
+    <Table.HeaderCell>
+      <Label
+        size='small'
+        content={attributes[givenEnemyAttr]}
+        color={attrBaseColors[givenEnemyAttr]}
+      />
+    </Table.HeaderCell>
+  )
+}
+const HitMagTableContent = ({ hitMagnification, enemyAttr1, enemyAttr2 }) => {
+  return (
+    <Table singleLine>
       <Table.Header>
         <Table.Row>
-          <Table.HeaderCell>我方屬性</Table.HeaderCell>
-          <Table.HeaderCell>敵方屬性({attributes[anemyAttr1]})</Table.HeaderCell>
-          {anemyAttr2 && <Table.HeaderCell>敵方屬性({attributes[anemyAttr2]})</Table.HeaderCell>}
-          <Table.HeaderCell>總攻擊倍率</Table.HeaderCell>
+          <Table.HeaderCell>{HeadField()}</Table.HeaderCell>
+          <RenderEnemyHeadCell givenEnemyAttr={enemyAttr1} />
+          {enemyAttr2 && <RenderEnemyHeadCell givenEnemyAttr={enemyAttr2} />}
+          <Table.HeaderCell>{TotalMag}</Table.HeaderCell>
         </Table.Row>
       </Table.Header>
       <Table.Body>
@@ -20,9 +42,15 @@ const HitMagTableContent = ({ hitMagnification, anemyAttr1, anemyAttr2 }) => {
           hitMagnification.map((ele, idx) => {
             return (
               <Table.Row key={idx}>
-                <Table.Cell> {attributes[ele.ourAttr]} </Table.Cell>
+                <Table.Cell>
+                  <Label
+                    content={attributes[ele.ourAttr]}
+                    color={attrBaseColors[ele.ourAttr]}
+                    icon={attrIconNames[ele.ourAttr]}
+                  />
+                </Table.Cell>
                 <Table.Cell> {ele.mag1}</Table.Cell>
-                {anemyAttr2 && <Table.Cell>{ele.mag2} </Table.Cell>}
+                {enemyAttr2 && <Table.Cell>{ele.mag2} </Table.Cell>}
                 <Table.Cell> {ele.hitMag} </Table.Cell>
               </Table.Row>
             )
@@ -34,15 +62,15 @@ const HitMagTableContent = ({ hitMagnification, anemyAttr1, anemyAttr2 }) => {
 }
 
 const MobileBoundary = 768
-const HitMagTable = ({ hitMagnification, anemyAttr1, anemyAttr2 }) => {
+const HitMagTable = ({ hitMagnification, enemyAttr1, enemyAttr2 }) => {
   return (
     <div>
       <Responsive maxWidth={MobileBoundary - 1}>
         <div className='attr-magtable-mobile'>
           <HitMagTableContent
             hitMagnification={hitMagnification}
-            anemyAttr1={anemyAttr1}
-            anemyAttr2={anemyAttr2}
+            enemyAttr1={enemyAttr1}
+            enemyAttr2={enemyAttr2}
           />
         </div>
       </Responsive>
@@ -50,8 +78,8 @@ const HitMagTable = ({ hitMagnification, anemyAttr1, anemyAttr2 }) => {
         <div className='attr-magtable'>
           <HitMagTableContent
             hitMagnification={hitMagnification}
-            anemyAttr1={anemyAttr1}
-            anemyAttr2={anemyAttr2}
+            enemyAttr1={enemyAttr1}
+            enemyAttr2={enemyAttr2}
           />
         </div>
       </Responsive>

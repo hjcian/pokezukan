@@ -15,10 +15,10 @@ function hitMagSorter (a, b) {
 }
 
 function App () {
-  const [anemyAttrs, setAttrs] = useState([])
+  const [enemyAttrs, setAttrs] = useState([])
   console.log('start render...')
-  const attrIdx1 = anemyAttrs.length > 0 ? anemyAttrs[0] : null
-  const attrIdx2 = anemyAttrs.length > 1 ? anemyAttrs[1] : null
+  const attrIdx1 = enemyAttrs.length > 0 ? enemyAttrs[0] : null
+  const attrIdx2 = enemyAttrs.length > 1 ? enemyAttrs[1] : null
   const hitMagnification = attributes.map((attr, idx) => {
     let mag1 = 1
     let mag2 = 1
@@ -47,12 +47,12 @@ function App () {
   })
     .filter(ele => ele.isShowing)
     .sort(hitMagSorter)
-  console.log(`Option selected: ${JSON.stringify(anemyAttrs, null, 4)}`)
+  console.log(`Option selected: ${JSON.stringify(enemyAttrs, null, 4)}`)
   return (
     <div className='App'>
       <header className='App-header'>
         <AttrSelector setAttrs={setAttrs} />
-        <HitMagTable hitMagnification={hitMagnification} anemyAttr1={attrIdx1} anemyAttr2={attrIdx2} />
+        <HitMagTable hitMagnification={hitMagnification} enemyAttr1={attrIdx1} enemyAttr2={attrIdx2} />
       </header>
     </div>
   )
