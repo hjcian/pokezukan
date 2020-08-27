@@ -1,8 +1,7 @@
 # pokezukan
 [![Netlify Status](https://api.netlify.com/api/v1/badges/19ed5817-0660-4de4-9e71-a6322f968a27/deploy-status)](https://app.netlify.com/sites/pokezukan/deploys)
 
-## hosting
-- https://pokezukan.netlify.com/
+Visit the site: https://pokezukan.netlify.app/
 
 ## dev notes
 - [When to use Component or PureComponent](https://codeburst.io/when-to-use-component-or-purecomponent-a60cfad01a81)
