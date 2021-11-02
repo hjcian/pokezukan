@@ -1,6 +1,7 @@
 {
   "name": "pokezukan",
   "version": "0.1.0",
+  "type": "module",
   "private": true,
   "dependencies": {
     "react": "^16.10.1",
@@ -28,5 +29,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.10"
   }
 }
