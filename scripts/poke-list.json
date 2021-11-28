@@ -1,0 +1,8526 @@
+[
+  {
+    "global_id": "#001",
+    "tw_name": "妙蛙種子",
+    "jp_name": "フシギダネ",
+    "en_name": "Bulbasaur",
+    "types": [
+      "草",
+      "毒"
+    ]
+  },
+  {
+    "global_id": "#002",
+    "tw_name": "妙蛙草",
+    "jp_name": "フシギソウ",
+    "en_name": "Ivysaur",
+    "types": [
+      "草",
+      "毒"
+    ]
+  },
+  {
+    "global_id": "#003",
+    "tw_name": "妙蛙花",
+    "jp_name": "フシギバナ",
+    "en_name": "Venusaur",
+    "types": [
+      "草",
+      "毒"
+    ]
+  },
+  {
+    "global_id": "#004",
+    "tw_name": "小火龍",
+    "jp_name": "ヒトカゲ",
+    "en_name": "Charmander",
+    "types": [
+      "火"
+    ]
+  },
+  {
+    "global_id": "#005",
+    "tw_name": "火恐龍",
+    "jp_name": "リザード",
+    "en_name": "Charmeleon",
+    "types": [
+      "火"
+    ]
+  },
+  {
+    "global_id": "#006",
+    "tw_name": "噴火龍",
+    "jp_name": "リザードン",
+    "en_name": "Charizard",
+    "types": [
+      "火",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#007",
+    "tw_name": "傑尼龜",
+    "jp_name": "ゼニガメ",
+    "en_name": "Squirtle",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#008",
+    "tw_name": "卡咪龜",
+    "jp_name": "カメール",
+    "en_name": "Wartortle",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#009",
+    "tw_name": "水箭龜",
+    "jp_name": "カメックス",
+    "en_name": "Blastoise",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#010",
+    "tw_name": "綠毛蟲",
+    "jp_name": "キャタピー",
+    "en_name": "Caterpie",
+    "types": [
+      "蟲"
+    ]
+  },
+  {
+    "global_id": "#011",
+    "tw_name": "鐵甲蛹",
+    "jp_name": "トランセル",
+    "en_name": "Metapod",
+    "types": [
+      "蟲"
+    ]
+  },
+  {
+    "global_id": "#012",
+    "tw_name": "巴大蝶",
+    "jp_name": "バタフリー",
+    "en_name": "Butterfree",
+    "types": [
+      "蟲",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#013",
+    "tw_name": "獨角蟲",
+    "jp_name": "ビードル",
+    "en_name": "Weedle",
+    "types": [
+      "蟲",
+      "毒"
+    ]
+  },
+  {
+    "global_id": "#014",
+    "tw_name": "鐵殼蛹",
+    "jp_name": "コクーン",
+    "en_name": "Kakuna",
+    "types": [
+      "蟲",
+      "毒"
+    ]
+  },
+  {
+    "global_id": "#015",
+    "tw_name": "大針蜂",
+    "jp_name": "スピアー",
+    "en_name": "Beedrill",
+    "types": [
+      "蟲",
+      "毒"
+    ]
+  },
+  {
+    "global_id": "#016",
+    "tw_name": "波波",
+    "jp_name": "ポッポ",
+    "en_name": "Pidgey",
+    "types": [
+      "一般",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#017",
+    "tw_name": "比比鳥",
+    "jp_name": "ピジョン",
+    "en_name": "Pidgeotto",
+    "types": [
+      "一般",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#018",
+    "tw_name": "大比鳥",
+    "jp_name": "ピジョット",
+    "en_name": "Pidgeot",
+    "types": [
+      "一般",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#019",
+    "tw_name": "小拉達",
+    "jp_name": "コラッタ",
+    "en_name": "Rattata",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#020",
+    "tw_name": "拉達",
+    "jp_name": "ラッタ",
+    "en_name": "Raticate",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#021",
+    "tw_name": "烈雀",
+    "jp_name": "オニスズメ",
+    "en_name": "Spearow",
+    "types": [
+      "一般",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#022",
+    "tw_name": "大嘴雀",
+    "jp_name": "オニドリル",
+    "en_name": "Fearow",
+    "types": [
+      "一般",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#023",
+    "tw_name": "阿柏蛇",
+    "jp_name": "アーボ",
+    "en_name": "Ekans",
+    "types": [
+      "毒"
+    ]
+  },
+  {
+    "global_id": "#024",
+    "tw_name": "阿柏怪",
+    "jp_name": "アーボック",
+    "en_name": "Arbok",
+    "types": [
+      "毒"
+    ]
+  },
+  {
+    "global_id": "#025",
+    "tw_name": "皮卡丘",
+    "jp_name": "ピカチュウ",
+    "en_name": "Pikachu",
+    "types": [
+      "電"
+    ]
+  },
+  {
+    "global_id": "#026",
+    "tw_name": "雷丘",
+    "jp_name": "ライチュウ",
+    "en_name": "Raichu",
+    "types": [
+      "電"
+    ]
+  },
+  {
+    "global_id": "#027",
+    "tw_name": "穿山鼠",
+    "jp_name": "サンド",
+    "en_name": "Sandshrew",
+    "types": [
+      "地面"
+    ]
+  },
+  {
+    "global_id": "#028",
+    "tw_name": "穿山王",
+    "jp_name": "サンドパン",
+    "en_name": "Sandslash",
+    "types": [
+      "地面"
+    ]
+  },
+  {
+    "global_id": "#029",
+    "tw_name": "尼多蘭",
+    "jp_name": "ニドラン♀",
+    "en_name": "Nidoran♀",
+    "types": [
+      "毒"
+    ]
+  },
+  {
+    "global_id": "#030",
+    "tw_name": "尼多娜",
+    "jp_name": "ニドリーナ",
+    "en_name": "Nidorina",
+    "types": [
+      "毒"
+    ]
+  },
+  {
+    "global_id": "#031",
+    "tw_name": "尼多后",
+    "jp_name": "ニドクイン",
+    "en_name": "Nidoqueen",
+    "types": [
+      "毒",
+      "地面"
+    ]
+  },
+  {
+    "global_id": "#032",
+    "tw_name": "尼多朗",
+    "jp_name": "ニドラン♂",
+    "en_name": "Nidoran♂",
+    "types": [
+      "毒"
+    ]
+  },
+  {
+    "global_id": "#033",
+    "tw_name": "尼多力諾",
+    "jp_name": "ニドリーノ",
+    "en_name": "Nidorino",
+    "types": [
+      "毒"
+    ]
+  },
+  {
+    "global_id": "#034",
+    "tw_name": "尼多王",
+    "jp_name": "ニドキング",
+    "en_name": "Nidoking",
+    "types": [
+      "毒",
+      "地面"
+    ]
+  },
+  {
+    "global_id": "#035",
+    "tw_name": "皮皮*",
+    "jp_name": "ピッピ",
+    "en_name": "Clefairy",
+    "types": [
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#036",
+    "tw_name": "皮可西*",
+    "jp_name": "ピクシー",
+    "en_name": "Clefable",
+    "types": [
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#037",
+    "tw_name": "六尾",
+    "jp_name": "ロコン",
+    "en_name": "Vulpix",
+    "types": [
+      "火"
+    ]
+  },
+  {
+    "global_id": "#038",
+    "tw_name": "九尾",
+    "jp_name": "キュウコン",
+    "en_name": "Ninetales",
+    "types": [
+      "火"
+    ]
+  },
+  {
+    "global_id": "#039",
+    "tw_name": "胖丁*",
+    "jp_name": "プリン",
+    "en_name": "Jigglypuff",
+    "types": [
+      "一般",
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#040",
+    "tw_name": "胖可丁*",
+    "jp_name": "プクリン",
+    "en_name": "Wigglytuff",
+    "types": [
+      "一般",
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#041",
+    "tw_name": "超音蝠",
+    "jp_name": "ズバット",
+    "en_name": "Zubat",
+    "types": [
+      "毒",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#042",
+    "tw_name": "大嘴蝠",
+    "jp_name": "ゴルバット",
+    "en_name": "Golbat",
+    "types": [
+      "毒",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#043",
+    "tw_name": "走路草",
+    "jp_name": "ナゾノクサ",
+    "en_name": "Oddish",
+    "types": [
+      "草",
+      "毒"
+    ]
+  },
+  {
+    "global_id": "#044",
+    "tw_name": "臭臭花",
+    "jp_name": "クサイハナ",
+    "en_name": "Gloom",
+    "types": [
+      "草",
+      "毒"
+    ]
+  },
+  {
+    "global_id": "#045",
+    "tw_name": "霸王花",
+    "jp_name": "ラフレシア",
+    "en_name": "Vileplume",
+    "types": [
+      "草",
+      "毒"
+    ]
+  },
+  {
+    "global_id": "#046",
+    "tw_name": "派拉斯",
+    "jp_name": "パラス",
+    "en_name": "Paras",
+    "types": [
+      "蟲",
+      "草"
+    ]
+  },
+  {
+    "global_id": "#047",
+    "tw_name": "派拉斯特",
+    "jp_name": "パラセクト",
+    "en_name": "Parasect",
+    "types": [
+      "蟲",
+      "草"
+    ]
+  },
+  {
+    "global_id": "#048",
+    "tw_name": "毛球",
+    "jp_name": "コンパン",
+    "en_name": "Venonat",
+    "types": [
+      "蟲",
+      "毒"
+    ]
+  },
+  {
+    "global_id": "#049",
+    "tw_name": "摩魯蛾",
+    "jp_name": "モルフォン",
+    "en_name": "Venomoth",
+    "types": [
+      "蟲",
+      "毒"
+    ]
+  },
+  {
+    "global_id": "#050",
+    "tw_name": "地鼠",
+    "jp_name": "ディグダ",
+    "en_name": "Diglett",
+    "types": [
+      "地面"
+    ]
+  },
+  {
+    "global_id": "#051",
+    "tw_name": "三地鼠",
+    "jp_name": "ダグトリオ",
+    "en_name": "Dugtrio",
+    "types": [
+      "地面"
+    ]
+  },
+  {
+    "global_id": "#052",
+    "tw_name": "喵喵",
+    "jp_name": "ニャース",
+    "en_name": "Meowth",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#053",
+    "tw_name": "貓老大",
+    "jp_name": "ペルシアン",
+    "en_name": "Persian",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#054",
+    "tw_name": "可達鴨",
+    "jp_name": "コダック",
+    "en_name": "Psyduck",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#055",
+    "tw_name": "哥達鴨",
+    "jp_name": "ゴルダック",
+    "en_name": "Golduck",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#056",
+    "tw_name": "猴怪",
+    "jp_name": "マンキー",
+    "en_name": "Mankey",
+    "types": [
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#057",
+    "tw_name": "火爆猴",
+    "jp_name": "オコリザル",
+    "en_name": "Primeape",
+    "types": [
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#058",
+    "tw_name": "卡蒂狗",
+    "jp_name": "ガーディ",
+    "en_name": "Growlithe",
+    "types": [
+      "火"
+    ]
+  },
+  {
+    "global_id": "#059",
+    "tw_name": "風速狗",
+    "jp_name": "ウインディ",
+    "en_name": "Arcanine",
+    "types": [
+      "火"
+    ]
+  },
+  {
+    "global_id": "#060",
+    "tw_name": "蚊香蝌蚪",
+    "jp_name": "ニョロモ",
+    "en_name": "Poliwag",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#061",
+    "tw_name": "蚊香君",
+    "jp_name": "ニョロゾ",
+    "en_name": "Poliwhirl",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#062",
+    "tw_name": "蚊香泳士",
+    "jp_name": "ニョロボン",
+    "en_name": "Poliwrath",
+    "types": [
+      "水",
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#063",
+    "tw_name": "凱西",
+    "jp_name": "ケーシィ",
+    "en_name": "Abra",
+    "types": [
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#064",
+    "tw_name": "勇基拉",
+    "jp_name": "ユンゲラー",
+    "en_name": "Kadabra",
+    "types": [
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#065",
+    "tw_name": "胡地",
+    "jp_name": "フーディン",
+    "en_name": "Alakazam",
+    "types": [
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#066",
+    "tw_name": "腕力",
+    "jp_name": "ワンリキー",
+    "en_name": "Machop",
+    "types": [
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#067",
+    "tw_name": "豪力",
+    "jp_name": "ゴーリキー",
+    "en_name": "Machoke",
+    "types": [
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#068",
+    "tw_name": "怪力",
+    "jp_name": "カイリキー",
+    "en_name": "Machamp",
+    "types": [
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#069",
+    "tw_name": "喇叭芽",
+    "jp_name": "マダツボミ",
+    "en_name": "Bellsprout",
+    "types": [
+      "草",
+      "毒"
+    ]
+  },
+  {
+    "global_id": "#070",
+    "tw_name": "口呆花",
+    "jp_name": "ウツドン",
+    "en_name": "Weepinbell",
+    "types": [
+      "草",
+      "毒"
+    ]
+  },
+  {
+    "global_id": "#071",
+    "tw_name": "大食花",
+    "jp_name": "ウツボット",
+    "en_name": "Victreebel",
+    "types": [
+      "草",
+      "毒"
+    ]
+  },
+  {
+    "global_id": "#072",
+    "tw_name": "瑪瑙水母",
+    "jp_name": "メノクラゲ",
+    "en_name": "Tentacool",
+    "types": [
+      "水",
+      "毒"
+    ]
+  },
+  {
+    "global_id": "#073",
+    "tw_name": "毒刺水母",
+    "jp_name": "ドククラゲ",
+    "en_name": "Tentacruel",
+    "types": [
+      "水",
+      "毒"
+    ]
+  },
+  {
+    "global_id": "#074",
+    "tw_name": "小拳石",
+    "jp_name": "イシツブテ",
+    "en_name": "Geodude",
+    "types": [
+      "岩石",
+      "地面"
+    ]
+  },
+  {
+    "global_id": "#075",
+    "tw_name": "隆隆石",
+    "jp_name": "ゴローン",
+    "en_name": "Graveler",
+    "types": [
+      "岩石",
+      "地面"
+    ]
+  },
+  {
+    "global_id": "#076",
+    "tw_name": "隆隆岩",
+    "jp_name": "ゴローニャ",
+    "en_name": "Golem",
+    "types": [
+      "岩石",
+      "地面"
+    ]
+  },
+  {
+    "global_id": "#077",
+    "tw_name": "小火馬",
+    "jp_name": "ポニータ",
+    "en_name": "Ponyta",
+    "types": [
+      "火"
+    ]
+  },
+  {
+    "global_id": "#078",
+    "tw_name": "烈焰馬",
+    "jp_name": "ギャロップ",
+    "en_name": "Rapidash",
+    "types": [
+      "火"
+    ]
+  },
+  {
+    "global_id": "#079",
+    "tw_name": "呆呆獸",
+    "jp_name": "ヤドン",
+    "en_name": "Slowpoke",
+    "types": [
+      "水",
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#080",
+    "tw_name": "呆殼獸",
+    "jp_name": "ヤドラン",
+    "en_name": "Slowbro",
+    "types": [
+      "水",
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#081",
+    "tw_name": "小磁怪*",
+    "jp_name": "コイル",
+    "en_name": "Magnemite",
+    "types": [
+      "電",
+      "鋼"
+    ]
+  },
+  {
+    "global_id": "#082",
+    "tw_name": "三合一磁怪*",
+    "jp_name": "レアコイル",
+    "en_name": "Magneton",
+    "types": [
+      "電",
+      "鋼"
+    ]
+  },
+  {
+    "global_id": "#083",
+    "tw_name": "大蔥鴨",
+    "jp_name": "カモネギ",
+    "en_name": "Farfetch'd",
+    "types": [
+      "一般",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#084",
+    "tw_name": "嘟嘟",
+    "jp_name": "ドードー",
+    "en_name": "Doduo",
+    "types": [
+      "一般",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#085",
+    "tw_name": "嘟嘟利",
+    "jp_name": "ドードリオ",
+    "en_name": "Dodrio",
+    "types": [
+      "一般",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#086",
+    "tw_name": "小海獅",
+    "jp_name": "パウワウ",
+    "en_name": "Seel",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#087",
+    "tw_name": "白海獅",
+    "jp_name": "ジュゴン",
+    "en_name": "Dewgong",
+    "types": [
+      "水",
+      "冰"
+    ]
+  },
+  {
+    "global_id": "#088",
+    "tw_name": "臭泥",
+    "jp_name": "ベトベター",
+    "en_name": "Grimer",
+    "types": [
+      "毒"
+    ]
+  },
+  {
+    "global_id": "#089",
+    "tw_name": "臭臭泥",
+    "jp_name": "ベトベトン",
+    "en_name": "Muk",
+    "types": [
+      "毒"
+    ]
+  },
+  {
+    "global_id": "#090",
+    "tw_name": "大舌貝",
+    "jp_name": "シェルダー",
+    "en_name": "Shellder",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#091",
+    "tw_name": "刺甲貝",
+    "jp_name": "パルシェン",
+    "en_name": "Cloyster",
+    "types": [
+      "水",
+      "冰"
+    ]
+  },
+  {
+    "global_id": "#092",
+    "tw_name": "鬼斯",
+    "jp_name": "ゴース",
+    "en_name": "Gastly",
+    "types": [
+      "幽靈",
+      "毒"
+    ]
+  },
+  {
+    "global_id": "#093",
+    "tw_name": "鬼斯通",
+    "jp_name": "ゴースト",
+    "en_name": "Haunter",
+    "types": [
+      "幽靈",
+      "毒"
+    ]
+  },
+  {
+    "global_id": "#094",
+    "tw_name": "耿鬼",
+    "jp_name": "ゲンガー",
+    "en_name": "Gengar",
+    "types": [
+      "幽靈",
+      "毒"
+    ]
+  },
+  {
+    "global_id": "#095",
+    "tw_name": "大岩蛇",
+    "jp_name": "イワーク",
+    "en_name": "Onix",
+    "types": [
+      "岩石",
+      "地面"
+    ]
+  },
+  {
+    "global_id": "#096",
+    "tw_name": "催眠貘",
+    "jp_name": "スリープ",
+    "en_name": "Drowzee",
+    "types": [
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#097",
+    "tw_name": "引夢貘人",
+    "jp_name": "スリーパー",
+    "en_name": "Hypno",
+    "types": [
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#098",
+    "tw_name": "大鉗蟹",
+    "jp_name": "クラブ",
+    "en_name": "Krabby",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#099",
+    "tw_name": "巨鉗蟹",
+    "jp_name": "キングラー",
+    "en_name": "Kingler",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#100",
+    "tw_name": "霹靂電球",
+    "jp_name": "ビリリダマ",
+    "en_name": "Voltorb",
+    "types": [
+      "電"
+    ]
+  },
+  {
+    "global_id": "#101",
+    "tw_name": "頑皮雷彈",
+    "jp_name": "マルマイン",
+    "en_name": "Electrode",
+    "types": [
+      "電"
+    ]
+  },
+  {
+    "global_id": "#102",
+    "tw_name": "蛋蛋",
+    "jp_name": "タマタマ",
+    "en_name": "Exeggcute",
+    "types": [
+      "草",
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#103",
+    "tw_name": "椰蛋樹",
+    "jp_name": "ナッシー",
+    "en_name": "Exeggutor",
+    "types": [
+      "草",
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#104",
+    "tw_name": "卡拉卡拉",
+    "jp_name": "カラカラ",
+    "en_name": "Cubone",
+    "types": [
+      "地面"
+    ]
+  },
+  {
+    "global_id": "#105",
+    "tw_name": "嘎啦嘎啦",
+    "jp_name": "ガラガラ",
+    "en_name": "Marowak",
+    "types": [
+      "地面"
+    ]
+  },
+  {
+    "global_id": "#106",
+    "tw_name": "飛腿郎",
+    "jp_name": "サワムラー",
+    "en_name": "Hitmonlee",
+    "types": [
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#107",
+    "tw_name": "快拳郎",
+    "jp_name": "エビワラー",
+    "en_name": "Hitmonchan",
+    "types": [
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#108",
+    "tw_name": "大舌頭",
+    "jp_name": "ベロリンガ",
+    "en_name": "Lickitung",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#109",
+    "tw_name": "瓦斯彈",
+    "jp_name": "ドガース",
+    "en_name": "Koffing",
+    "types": [
+      "毒"
+    ]
+  },
+  {
+    "global_id": "#110",
+    "tw_name": "雙彈瓦斯",
+    "jp_name": "マタドガス",
+    "en_name": "Weezing",
+    "types": [
+      "毒"
+    ]
+  },
+  {
+    "global_id": "#111",
+    "tw_name": "獨角犀牛",
+    "jp_name": "サイホーン",
+    "en_name": "Rhyhorn",
+    "types": [
+      "地面",
+      "岩石"
+    ]
+  },
+  {
+    "global_id": "#112",
+    "tw_name": "鑽角犀獸",
+    "jp_name": "サイドン",
+    "en_name": "Rhydon",
+    "types": [
+      "地面",
+      "岩石"
+    ]
+  },
+  {
+    "global_id": "#113",
+    "tw_name": "吉利蛋",
+    "jp_name": "ラッキー",
+    "en_name": "Chansey",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#114",
+    "tw_name": "蔓藤怪",
+    "jp_name": "モンジャラ",
+    "en_name": "Tangela",
+    "types": [
+      "草"
+    ]
+  },
+  {
+    "global_id": "#115",
+    "tw_name": "袋獸",
+    "jp_name": "ガルーラ",
+    "en_name": "Kangaskhan",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#116",
+    "tw_name": "墨海馬",
+    "jp_name": "タッツー",
+    "en_name": "Horsea",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#117",
+    "tw_name": "海刺龍",
+    "jp_name": "シードラ",
+    "en_name": "Seadra",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#118",
+    "tw_name": "角金魚",
+    "jp_name": "トサキント",
+    "en_name": "Goldeen",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#119",
+    "tw_name": "金魚王",
+    "jp_name": "アズマオウ",
+    "en_name": "Seaking",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#120",
+    "tw_name": "海星星",
+    "jp_name": "ヒトデマン",
+    "en_name": "Staryu",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#121",
+    "tw_name": "寶石海星",
+    "jp_name": "スターミー",
+    "en_name": "Starmie",
+    "types": [
+      "水",
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#122",
+    "tw_name": "魔牆人偶*",
+    "jp_name": "バリヤード",
+    "en_name": "Mr. Mime",
+    "types": [
+      "超能力",
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#123",
+    "tw_name": "飛天螳螂",
+    "jp_name": "ストライク",
+    "en_name": "Scyther",
+    "types": [
+      "蟲",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#124",
+    "tw_name": "迷唇姐",
+    "jp_name": "ルージュラ",
+    "en_name": "Jynx",
+    "types": [
+      "冰",
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#125",
+    "tw_name": "電擊獸",
+    "jp_name": "エレブー",
+    "en_name": "Electabuzz",
+    "types": [
+      "電"
+    ]
+  },
+  {
+    "global_id": "#126",
+    "tw_name": "鴨嘴火獸",
+    "jp_name": "ブーバー",
+    "en_name": "Magmar",
+    "types": [
+      "火"
+    ]
+  },
+  {
+    "global_id": "#127",
+    "tw_name": "凱羅斯",
+    "jp_name": "カイロス",
+    "en_name": "Pinsir",
+    "types": [
+      "蟲"
+    ]
+  },
+  {
+    "global_id": "#128",
+    "tw_name": "肯泰羅",
+    "jp_name": "ケンタロス",
+    "en_name": "Tauros",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#129",
+    "tw_name": "鯉魚王",
+    "jp_name": "コイキング",
+    "en_name": "Magikarp",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#130",
+    "tw_name": "暴鯉龍",
+    "jp_name": "ギャラドス",
+    "en_name": "Gyarados",
+    "types": [
+      "水",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#131",
+    "tw_name": "拉普拉斯",
+    "jp_name": "ラプラス",
+    "en_name": "Lapras",
+    "types": [
+      "水",
+      "冰"
+    ]
+  },
+  {
+    "global_id": "#132",
+    "tw_name": "百變怪",
+    "jp_name": "メタモン",
+    "en_name": "Ditto",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#133",
+    "tw_name": "伊布",
+    "jp_name": "イーブイ",
+    "en_name": "Eevee",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#134",
+    "tw_name": "水伊布",
+    "jp_name": "シャワーズ",
+    "en_name": "Vaporeon",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#135",
+    "tw_name": "雷伊布",
+    "jp_name": "サンダース",
+    "en_name": "Jolteon",
+    "types": [
+      "電"
+    ]
+  },
+  {
+    "global_id": "#136",
+    "tw_name": "火伊布",
+    "jp_name": "ブースター",
+    "en_name": "Flareon",
+    "types": [
+      "火"
+    ]
+  },
+  {
+    "global_id": "#137",
+    "tw_name": "多邊獸",
+    "jp_name": "ポリゴン",
+    "en_name": "Porygon",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#138",
+    "tw_name": "菊石獸",
+    "jp_name": "オムナイト",
+    "en_name": "Omanyte",
+    "types": [
+      "岩石",
+      "水"
+    ]
+  },
+  {
+    "global_id": "#139",
+    "tw_name": "多刺菊石獸",
+    "jp_name": "オムスター",
+    "en_name": "Omastar",
+    "types": [
+      "岩石",
+      "水"
+    ]
+  },
+  {
+    "global_id": "#140",
+    "tw_name": "化石盔",
+    "jp_name": "カブト",
+    "en_name": "Kabuto",
+    "types": [
+      "岩石",
+      "水"
+    ]
+  },
+  {
+    "global_id": "#141",
+    "tw_name": "鐮刀盔",
+    "jp_name": "カブトプス",
+    "en_name": "Kabutops",
+    "types": [
+      "岩石",
+      "水"
+    ]
+  },
+  {
+    "global_id": "#142",
+    "tw_name": "化石翼龍",
+    "jp_name": "プテラ",
+    "en_name": "Aerodactyl",
+    "types": [
+      "岩石",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#143",
+    "tw_name": "卡比獸",
+    "jp_name": "カビゴン",
+    "en_name": "Snorlax",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#144",
+    "tw_name": "急凍鳥",
+    "jp_name": "フリーザー",
+    "en_name": "Articuno",
+    "types": [
+      "冰",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#145",
+    "tw_name": "閃電鳥",
+    "jp_name": "サンダー",
+    "en_name": "Zapdos",
+    "types": [
+      "電",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#146",
+    "tw_name": "火焰鳥",
+    "jp_name": "ファイヤー",
+    "en_name": "Moltres",
+    "types": [
+      "火",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#147",
+    "tw_name": "迷你龍",
+    "jp_name": "ミニリュウ",
+    "en_name": "Dratini",
+    "types": [
+      "龍"
+    ]
+  },
+  {
+    "global_id": "#148",
+    "tw_name": "哈克龍",
+    "jp_name": "ハクリュー",
+    "en_name": "Dragonair",
+    "types": [
+      "龍"
+    ]
+  },
+  {
+    "global_id": "#149",
+    "tw_name": "快龍",
+    "jp_name": "カイリュー",
+    "en_name": "Dragonite",
+    "types": [
+      "龍",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#150",
+    "tw_name": "超夢",
+    "jp_name": "ミュウツー",
+    "en_name": "Mewtwo",
+    "types": [
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#151",
+    "tw_name": "夢幻",
+    "jp_name": "ミュウ",
+    "en_name": "Mew",
+    "types": [
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#152",
+    "tw_name": "菊草葉",
+    "jp_name": "チコリータ",
+    "en_name": "Chikorita",
+    "types": [
+      "草"
+    ]
+  },
+  {
+    "global_id": "#153",
+    "tw_name": "月桂葉",
+    "jp_name": "ベイリーフ",
+    "en_name": "Bayleef",
+    "types": [
+      "草"
+    ]
+  },
+  {
+    "global_id": "#154",
+    "tw_name": "大竺葵",
+    "jp_name": "メガニウム",
+    "en_name": "Meganium",
+    "types": [
+      "草"
+    ]
+  },
+  {
+    "global_id": "#155",
+    "tw_name": "火球鼠",
+    "jp_name": "ヒノアラシ",
+    "en_name": "Cyndaquil",
+    "types": [
+      "火"
+    ]
+  },
+  {
+    "global_id": "#156",
+    "tw_name": "火岩鼠",
+    "jp_name": "マグマラシ",
+    "en_name": "Quilava",
+    "types": [
+      "火"
+    ]
+  },
+  {
+    "global_id": "#157",
+    "tw_name": "火爆獸",
+    "jp_name": "バクフーン",
+    "en_name": "Typhlosion",
+    "types": [
+      "火"
+    ]
+  },
+  {
+    "global_id": "#158",
+    "tw_name": "小鋸鱷",
+    "jp_name": "ワニノコ",
+    "en_name": "Totodile",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#159",
+    "tw_name": "藍鱷",
+    "jp_name": "アリゲイツ",
+    "en_name": "Croconaw",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#160",
+    "tw_name": "大力鱷",
+    "jp_name": "オーダイル",
+    "en_name": "Feraligatr",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#161",
+    "tw_name": "尾立",
+    "jp_name": "オタチ",
+    "en_name": "Sentret",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#162",
+    "tw_name": "大尾立",
+    "jp_name": "オオタチ",
+    "en_name": "Furret",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#163",
+    "tw_name": "咕咕",
+    "jp_name": "ホーホー",
+    "en_name": "Hoothoot",
+    "types": [
+      "一般",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#164",
+    "tw_name": "貓頭夜鷹",
+    "jp_name": "ヨルノズク",
+    "en_name": "Noctowl",
+    "types": [
+      "一般",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#165",
+    "tw_name": "芭瓢蟲",
+    "jp_name": "レディバ",
+    "en_name": "Ledyba",
+    "types": [
+      "蟲",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#166",
+    "tw_name": "安瓢蟲",
+    "jp_name": "レディアン",
+    "en_name": "Ledian",
+    "types": [
+      "蟲",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#167",
+    "tw_name": "圓絲蛛",
+    "jp_name": "イトマル",
+    "en_name": "Spinarak",
+    "types": [
+      "蟲",
+      "毒"
+    ]
+  },
+  {
+    "global_id": "#168",
+    "tw_name": "阿利多斯",
+    "jp_name": "アリアドス",
+    "en_name": "Ariados",
+    "types": [
+      "蟲",
+      "毒"
+    ]
+  },
+  {
+    "global_id": "#169",
+    "tw_name": "叉字蝠",
+    "jp_name": "クロバット",
+    "en_name": "Crobat",
+    "types": [
+      "毒",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#170",
+    "tw_name": "燈籠魚",
+    "jp_name": "チョンチー",
+    "en_name": "Chinchou",
+    "types": [
+      "水",
+      "電"
+    ]
+  },
+  {
+    "global_id": "#171",
+    "tw_name": "電燈怪",
+    "jp_name": "ランターン",
+    "en_name": "Lanturn",
+    "types": [
+      "水",
+      "電"
+    ]
+  },
+  {
+    "global_id": "#172",
+    "tw_name": "皮丘",
+    "jp_name": "ピチュー",
+    "en_name": "Pichu",
+    "types": [
+      "電"
+    ]
+  },
+  {
+    "global_id": "#173",
+    "tw_name": "皮寶寶*",
+    "jp_name": "ピィ",
+    "en_name": "Cleffa",
+    "types": [
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#174",
+    "tw_name": "寶寶丁*",
+    "jp_name": "ププリン",
+    "en_name": "Igglybuff",
+    "types": [
+      "一般",
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#175",
+    "tw_name": "波克比*",
+    "jp_name": "トゲピー",
+    "en_name": "Togepi",
+    "types": [
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#176",
+    "tw_name": "波克基古*",
+    "jp_name": "トゲチック",
+    "en_name": "Togetic",
+    "types": [
+      "妖精",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#177",
+    "tw_name": "天然雀",
+    "jp_name": "ネイティ",
+    "en_name": "Natu",
+    "types": [
+      "超能力",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#178",
+    "tw_name": "天然鳥",
+    "jp_name": "ネイティオ",
+    "en_name": "Xatu",
+    "types": [
+      "超能力",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#179",
+    "tw_name": "咩利羊",
+    "jp_name": "メリープ",
+    "en_name": "Mareep",
+    "types": [
+      "電"
+    ]
+  },
+  {
+    "global_id": "#180",
+    "tw_name": "茸茸羊",
+    "jp_name": "モココ",
+    "en_name": "Flaaffy",
+    "types": [
+      "電"
+    ]
+  },
+  {
+    "global_id": "#181",
+    "tw_name": "電龍",
+    "jp_name": "デンリュウ",
+    "en_name": "Ampharos",
+    "types": [
+      "電"
+    ]
+  },
+  {
+    "global_id": "#182",
+    "tw_name": "美麗花",
+    "jp_name": "キレイハナ",
+    "en_name": "Bellossom",
+    "types": [
+      "草"
+    ]
+  },
+  {
+    "global_id": "#183",
+    "tw_name": "瑪力露*",
+    "jp_name": "マリル",
+    "en_name": "Marill",
+    "types": [
+      "水",
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#184",
+    "tw_name": "瑪力露麗*",
+    "jp_name": "マリルリ",
+    "en_name": "Azumarill",
+    "types": [
+      "水",
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#185",
+    "tw_name": "樹才怪",
+    "jp_name": "ウソッキー",
+    "en_name": "Sudowoodo",
+    "types": [
+      "岩石"
+    ]
+  },
+  {
+    "global_id": "#186",
+    "tw_name": "蚊香蛙皇",
+    "jp_name": "ニョロトノ",
+    "en_name": "Politoed",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#187",
+    "tw_name": "毽子草",
+    "jp_name": "ハネッコ",
+    "en_name": "Hoppip",
+    "types": [
+      "草",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#188",
+    "tw_name": "毽子花",
+    "jp_name": "ポポッコ",
+    "en_name": "Skiploom",
+    "types": [
+      "草",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#189",
+    "tw_name": "毽子棉",
+    "jp_name": "ワタッコ",
+    "en_name": "Jumpluff",
+    "types": [
+      "草",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#190",
+    "tw_name": "長尾怪手",
+    "jp_name": "エイパム",
+    "en_name": "Aipom",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#191",
+    "tw_name": "向日種子",
+    "jp_name": "ヒマナッツ",
+    "en_name": "Sunkern",
+    "types": [
+      "草"
+    ]
+  },
+  {
+    "global_id": "#192",
+    "tw_name": "向日花怪",
+    "jp_name": "キマワリ",
+    "en_name": "Sunflora",
+    "types": [
+      "草"
+    ]
+  },
+  {
+    "global_id": "#193",
+    "tw_name": "蜻蜻蜓",
+    "jp_name": "ヤンヤンマ",
+    "en_name": "Yanma",
+    "types": [
+      "蟲",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#194",
+    "tw_name": "烏波",
+    "jp_name": "ウパー",
+    "en_name": "Wooper",
+    "types": [
+      "水",
+      "地面"
+    ]
+  },
+  {
+    "global_id": "#195",
+    "tw_name": "沼王",
+    "jp_name": "ヌオー",
+    "en_name": "Quagsire",
+    "types": [
+      "水",
+      "地面"
+    ]
+  },
+  {
+    "global_id": "#196",
+    "tw_name": "太陽伊布",
+    "jp_name": "エーフィ",
+    "en_name": "Espeon",
+    "types": [
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#197",
+    "tw_name": "月亮伊布",
+    "jp_name": "ブラッキー",
+    "en_name": "Umbreon",
+    "types": [
+      "惡"
+    ]
+  },
+  {
+    "global_id": "#198",
+    "tw_name": "黑暗鴉",
+    "jp_name": "ヤミカラス",
+    "en_name": "Murkrow",
+    "types": [
+      "惡",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#199",
+    "tw_name": "呆呆王",
+    "jp_name": "ヤドキング",
+    "en_name": "Slowking",
+    "types": [
+      "水",
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#200",
+    "tw_name": "夢妖",
+    "jp_name": "ムウマ",
+    "en_name": "Misdreavus",
+    "types": [
+      "幽靈"
+    ]
+  },
+  {
+    "global_id": "#201",
+    "tw_name": "未知圖騰",
+    "jp_name": "アンノーン",
+    "en_name": "Unown",
+    "types": [
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#202",
+    "tw_name": "果然翁",
+    "jp_name": "ソーナンス",
+    "en_name": "Wobbuffet",
+    "types": [
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#203",
+    "tw_name": "麒麟奇",
+    "jp_name": "キリンリキ",
+    "en_name": "Girafarig",
+    "types": [
+      "一般",
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#204",
+    "tw_name": "榛果球",
+    "jp_name": "クヌギダマ",
+    "en_name": "Pineco",
+    "types": [
+      "蟲"
+    ]
+  },
+  {
+    "global_id": "#205",
+    "tw_name": "佛烈托斯",
+    "jp_name": "フォレトス",
+    "en_name": "Forretress",
+    "types": [
+      "蟲",
+      "鋼"
+    ]
+  },
+  {
+    "global_id": "#206",
+    "tw_name": "土龍弟弟",
+    "jp_name": "ノコッチ",
+    "en_name": "Dunsparce",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#207",
+    "tw_name": "天蠍",
+    "jp_name": "グライガー",
+    "en_name": "Gligar",
+    "types": [
+      "地面",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#208",
+    "tw_name": "大鋼蛇",
+    "jp_name": "ハガネール",
+    "en_name": "Steelix",
+    "types": [
+      "鋼",
+      "地面"
+    ]
+  },
+  {
+    "global_id": "#209",
+    "tw_name": "布魯*",
+    "jp_name": "ブルー",
+    "en_name": "Snubbull",
+    "types": [
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#210",
+    "tw_name": "布魯皇*",
+    "jp_name": "グランブル",
+    "en_name": "Granbull",
+    "types": [
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#211",
+    "tw_name": "千針魚",
+    "jp_name": "ハリーセン",
+    "en_name": "Qwilfish",
+    "types": [
+      "水",
+      "毒"
+    ]
+  },
+  {
+    "global_id": "#212",
+    "tw_name": "巨鉗螳螂",
+    "jp_name": "ハッサム",
+    "en_name": "Scizor",
+    "types": [
+      "蟲",
+      "鋼"
+    ]
+  },
+  {
+    "global_id": "#213",
+    "tw_name": "壺壺",
+    "jp_name": "ツボツボ",
+    "en_name": "Shuckle",
+    "types": [
+      "蟲",
+      "岩石"
+    ]
+  },
+  {
+    "global_id": "#214",
+    "tw_name": "赫拉克羅斯",
+    "jp_name": "ヘラクロス",
+    "en_name": "Heracross",
+    "types": [
+      "蟲",
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#215",
+    "tw_name": "狃拉",
+    "jp_name": "ニューラ",
+    "en_name": "Sneasel",
+    "types": [
+      "惡",
+      "冰"
+    ]
+  },
+  {
+    "global_id": "#216",
+    "tw_name": "熊寶寶",
+    "jp_name": "ヒメグマ",
+    "en_name": "Teddiursa",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#217",
+    "tw_name": "圈圈熊",
+    "jp_name": "リングマ",
+    "en_name": "Ursaring",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#218",
+    "tw_name": "熔岩蟲",
+    "jp_name": "マグマッグ",
+    "en_name": "Slugma",
+    "types": [
+      "火"
+    ]
+  },
+  {
+    "global_id": "#219",
+    "tw_name": "熔岩蝸牛",
+    "jp_name": "マグカルゴ",
+    "en_name": "Magcargo",
+    "types": [
+      "火",
+      "岩石"
+    ]
+  },
+  {
+    "global_id": "#220",
+    "tw_name": "小山豬",
+    "jp_name": "ウリムー",
+    "en_name": "Swinub",
+    "types": [
+      "冰",
+      "地面"
+    ]
+  },
+  {
+    "global_id": "#221",
+    "tw_name": "長毛豬",
+    "jp_name": "イノムー",
+    "en_name": "Piloswine",
+    "types": [
+      "冰",
+      "地面"
+    ]
+  },
+  {
+    "global_id": "#222",
+    "tw_name": "太陽珊瑚",
+    "jp_name": "サニーゴ",
+    "en_name": "Corsola",
+    "types": [
+      "水",
+      "岩石"
+    ]
+  },
+  {
+    "global_id": "#223",
+    "tw_name": "鐵炮魚",
+    "jp_name": "テッポウオ",
+    "en_name": "Remoraid",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#224",
+    "tw_name": "章魚桶",
+    "jp_name": "オクタン",
+    "en_name": "Octillery",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#225",
+    "tw_name": "信使鳥",
+    "jp_name": "デリバード",
+    "en_name": "Delibird",
+    "types": [
+      "冰",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#226",
+    "tw_name": "巨翅飛魚",
+    "jp_name": "マンタイン",
+    "en_name": "Mantine",
+    "types": [
+      "水",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#227",
+    "tw_name": "盔甲鳥",
+    "jp_name": "エアームド",
+    "en_name": "Skarmory",
+    "types": [
+      "鋼",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#228",
+    "tw_name": "戴魯比",
+    "jp_name": "デルビル",
+    "en_name": "Houndour",
+    "types": [
+      "惡",
+      "火"
+    ]
+  },
+  {
+    "global_id": "#229",
+    "tw_name": "黑魯加",
+    "jp_name": "ヘルガー",
+    "en_name": "Houndoom",
+    "types": [
+      "惡",
+      "火"
+    ]
+  },
+  {
+    "global_id": "#230",
+    "tw_name": "刺龍王",
+    "jp_name": "キングドラ",
+    "en_name": "Kingdra",
+    "types": [
+      "水",
+      "龍"
+    ]
+  },
+  {
+    "global_id": "#231",
+    "tw_name": "小小象",
+    "jp_name": "ゴマゾウ",
+    "en_name": "Phanpy",
+    "types": [
+      "地面"
+    ]
+  },
+  {
+    "global_id": "#232",
+    "tw_name": "頓甲",
+    "jp_name": "ドンファン",
+    "en_name": "Donphan",
+    "types": [
+      "地面"
+    ]
+  },
+  {
+    "global_id": "#233",
+    "tw_name": "多邊獸Ⅱ",
+    "jp_name": "ポリゴン２",
+    "en_name": "Porygon2",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#234",
+    "tw_name": "驚角鹿",
+    "jp_name": "オドシシ",
+    "en_name": "Stantler",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#235",
+    "tw_name": "圖圖犬",
+    "jp_name": "ドーブル",
+    "en_name": "Smeargle",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#236",
+    "tw_name": "無畏小子",
+    "jp_name": "バルキー",
+    "en_name": "Tyrogue",
+    "types": [
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#237",
+    "tw_name": "戰舞郎",
+    "jp_name": "カポエラー",
+    "en_name": "Hitmontop",
+    "types": [
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#238",
+    "tw_name": "迷唇娃",
+    "jp_name": "ムチュール",
+    "en_name": "Smoochum",
+    "types": [
+      "冰",
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#239",
+    "tw_name": "電擊怪",
+    "jp_name": "エレキッド",
+    "en_name": "Elekid",
+    "types": [
+      "電"
+    ]
+  },
+  {
+    "global_id": "#240",
+    "tw_name": "鴨嘴寶寶",
+    "jp_name": "ブビィ",
+    "en_name": "Magby",
+    "types": [
+      "火"
+    ]
+  },
+  {
+    "global_id": "#241",
+    "tw_name": "大奶罐",
+    "jp_name": "ミルタンク",
+    "en_name": "Miltank",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#242",
+    "tw_name": "幸福蛋",
+    "jp_name": "ハピナス",
+    "en_name": "Blissey",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#243",
+    "tw_name": "雷公",
+    "jp_name": "ライコウ",
+    "en_name": "Raikou",
+    "types": [
+      "電"
+    ]
+  },
+  {
+    "global_id": "#244",
+    "tw_name": "炎帝",
+    "jp_name": "エンテイ",
+    "en_name": "Entei",
+    "types": [
+      "火"
+    ]
+  },
+  {
+    "global_id": "#245",
+    "tw_name": "水君",
+    "jp_name": "スイクン",
+    "en_name": "Suicune",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#246",
+    "tw_name": "幼基拉斯",
+    "jp_name": "ヨーギラス",
+    "en_name": "Larvitar",
+    "types": [
+      "岩石",
+      "地面"
+    ]
+  },
+  {
+    "global_id": "#247",
+    "tw_name": "沙基拉斯",
+    "jp_name": "サナギラス",
+    "en_name": "Pupitar",
+    "types": [
+      "岩石",
+      "地面"
+    ]
+  },
+  {
+    "global_id": "#248",
+    "tw_name": "班基拉斯",
+    "jp_name": "バンギラス",
+    "en_name": "Tyranitar",
+    "types": [
+      "岩石",
+      "惡"
+    ]
+  },
+  {
+    "global_id": "#249",
+    "tw_name": "洛奇亞",
+    "jp_name": "ルギア",
+    "en_name": "Lugia",
+    "types": [
+      "超能力",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#250",
+    "tw_name": "鳳王",
+    "jp_name": "ホウオウ",
+    "en_name": "Ho-Oh",
+    "types": [
+      "火",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#251",
+    "tw_name": "時拉比",
+    "jp_name": "セレビィ",
+    "en_name": "Celebi",
+    "types": [
+      "超能力",
+      "草"
+    ]
+  },
+  {
+    "global_id": "#252",
+    "tw_name": "木守宮",
+    "jp_name": "キモリ",
+    "en_name": "Treecko",
+    "types": [
+      "草"
+    ]
+  },
+  {
+    "global_id": "#253",
+    "tw_name": "森林蜥蜴",
+    "jp_name": "ジュプトル",
+    "en_name": "Grovyle",
+    "types": [
+      "草"
+    ]
+  },
+  {
+    "global_id": "#254",
+    "tw_name": "蜥蜴王",
+    "jp_name": "ジュカイン",
+    "en_name": "Sceptile",
+    "types": [
+      "草"
+    ]
+  },
+  {
+    "global_id": "#255",
+    "tw_name": "火稚雞",
+    "jp_name": "アチャモ",
+    "en_name": "Torchic",
+    "types": [
+      "火"
+    ]
+  },
+  {
+    "global_id": "#256",
+    "tw_name": "力壯雞",
+    "jp_name": "ワカシャモ",
+    "en_name": "Combusken",
+    "types": [
+      "火",
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#257",
+    "tw_name": "火焰雞",
+    "jp_name": "バシャーモ",
+    "en_name": "Blaziken",
+    "types": [
+      "火",
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#258",
+    "tw_name": "水躍魚",
+    "jp_name": "ミズゴロウ",
+    "en_name": "Mudkip",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#259",
+    "tw_name": "沼躍魚",
+    "jp_name": "ヌマクロー",
+    "en_name": "Marshtomp",
+    "types": [
+      "水",
+      "地面"
+    ]
+  },
+  {
+    "global_id": "#260",
+    "tw_name": "巨沼怪",
+    "jp_name": "ラグラージ",
+    "en_name": "Swampert",
+    "types": [
+      "水",
+      "地面"
+    ]
+  },
+  {
+    "global_id": "#261",
+    "tw_name": "土狼犬",
+    "jp_name": "ポチエナ",
+    "en_name": "Poochyena",
+    "types": [
+      "惡"
+    ]
+  },
+  {
+    "global_id": "#262",
+    "tw_name": "大狼犬",
+    "jp_name": "グラエナ",
+    "en_name": "Mightyena",
+    "types": [
+      "惡"
+    ]
+  },
+  {
+    "global_id": "#263",
+    "tw_name": "蛇紋熊",
+    "jp_name": "ジグザグマ",
+    "en_name": "Zigzagoon",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#264",
+    "tw_name": "直衝熊",
+    "jp_name": "マッスグマ",
+    "en_name": "Linoone",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#265",
+    "tw_name": "刺尾蟲",
+    "jp_name": "ケムッソ",
+    "en_name": "Wurmple",
+    "types": [
+      "蟲"
+    ]
+  },
+  {
+    "global_id": "#266",
+    "tw_name": "甲殼繭",
+    "jp_name": "カラサリス",
+    "en_name": "Silcoon",
+    "types": [
+      "蟲"
+    ]
+  },
+  {
+    "global_id": "#267",
+    "tw_name": "狩獵鳳蝶",
+    "jp_name": "アゲハント",
+    "en_name": "Beautifly",
+    "types": [
+      "蟲",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#268",
+    "tw_name": "盾甲繭",
+    "jp_name": "マユルド",
+    "en_name": "Cascoon",
+    "types": [
+      "蟲"
+    ]
+  },
+  {
+    "global_id": "#269",
+    "tw_name": "毒粉蛾",
+    "jp_name": "ドクケイル",
+    "en_name": "Dustox",
+    "types": [
+      "蟲",
+      "毒"
+    ]
+  },
+  {
+    "global_id": "#270",
+    "tw_name": "蓮葉童子",
+    "jp_name": "ハスボー",
+    "en_name": "Lotad",
+    "types": [
+      "水",
+      "草"
+    ]
+  },
+  {
+    "global_id": "#271",
+    "tw_name": "蓮帽小童",
+    "jp_name": "ハスブレロ",
+    "en_name": "Lombre",
+    "types": [
+      "水",
+      "草"
+    ]
+  },
+  {
+    "global_id": "#272",
+    "tw_name": "樂天河童",
+    "jp_name": "ルンパッパ",
+    "en_name": "Ludicolo",
+    "types": [
+      "水",
+      "草"
+    ]
+  },
+  {
+    "global_id": "#273",
+    "tw_name": "橡實果",
+    "jp_name": "タネボー",
+    "en_name": "Seedot",
+    "types": [
+      "草"
+    ]
+  },
+  {
+    "global_id": "#274",
+    "tw_name": "長鼻葉",
+    "jp_name": "コノハナ",
+    "en_name": "Nuzleaf",
+    "types": [
+      "草",
+      "惡"
+    ]
+  },
+  {
+    "global_id": "#275",
+    "tw_name": "狡猾天狗",
+    "jp_name": "ダーテング",
+    "en_name": "Shiftry",
+    "types": [
+      "草",
+      "惡"
+    ]
+  },
+  {
+    "global_id": "#276",
+    "tw_name": "傲骨燕",
+    "jp_name": "スバメ",
+    "en_name": "Taillow",
+    "types": [
+      "一般",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#277",
+    "tw_name": "大王燕",
+    "jp_name": "オオスバメ",
+    "en_name": "Swellow",
+    "types": [
+      "一般",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#278",
+    "tw_name": "長翅鷗",
+    "jp_name": "キャモメ",
+    "en_name": "Wingull",
+    "types": [
+      "水",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#279",
+    "tw_name": "大嘴鷗",
+    "jp_name": "ペリッパー",
+    "en_name": "Pelipper",
+    "types": [
+      "水",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#280",
+    "tw_name": "拉魯拉絲*",
+    "jp_name": "ラルトス",
+    "en_name": "Ralts",
+    "types": [
+      "超能力",
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#281",
+    "tw_name": "奇魯莉安*",
+    "jp_name": "キルリア",
+    "en_name": "Kirlia",
+    "types": [
+      "超能力",
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#282",
+    "tw_name": "沙奈朵*",
+    "jp_name": "サーナイト",
+    "en_name": "Gardevoir",
+    "types": [
+      "超能力",
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#283",
+    "tw_name": "溜溜糖球",
+    "jp_name": "アメタマ",
+    "en_name": "Surskit",
+    "types": [
+      "蟲",
+      "水"
+    ]
+  },
+  {
+    "global_id": "#284",
+    "tw_name": "雨翅蛾",
+    "jp_name": "アメモース",
+    "en_name": "Masquerain",
+    "types": [
+      "蟲",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#285",
+    "tw_name": "蘑蘑菇",
+    "jp_name": "キノココ",
+    "en_name": "Shroomish",
+    "types": [
+      "草"
+    ]
+  },
+  {
+    "global_id": "#286",
+    "tw_name": "斗笠菇",
+    "jp_name": "キノガッサ",
+    "en_name": "Breloom",
+    "types": [
+      "草",
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#287",
+    "tw_name": "懶人獺",
+    "jp_name": "ナマケロ",
+    "en_name": "Slakoth",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#288",
+    "tw_name": "過動猿",
+    "jp_name": "ヤルキモノ",
+    "en_name": "Vigoroth",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#289",
+    "tw_name": "請假王",
+    "jp_name": "ケッキング",
+    "en_name": "Slaking",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#290",
+    "tw_name": "土居忍士",
+    "jp_name": "ツチニン",
+    "en_name": "Nincada",
+    "types": [
+      "蟲",
+      "地面"
+    ]
+  },
+  {
+    "global_id": "#291",
+    "tw_name": "鐵面忍者",
+    "jp_name": "テッカニン",
+    "en_name": "Ninjask",
+    "types": [
+      "蟲",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#292",
+    "tw_name": "脫殼忍者",
+    "jp_name": "ヌケニン",
+    "en_name": "Shedinja",
+    "types": [
+      "蟲",
+      "幽靈"
+    ]
+  },
+  {
+    "global_id": "#293",
+    "tw_name": "咕妞妞",
+    "jp_name": "ゴニョニョ",
+    "en_name": "Whismur",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#294",
+    "tw_name": "吼爆彈",
+    "jp_name": "ドゴーム",
+    "en_name": "Loudred",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#295",
+    "tw_name": "爆音怪",
+    "jp_name": "バクオング",
+    "en_name": "Exploud",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#296",
+    "tw_name": "幕下力士",
+    "jp_name": "マクノシタ",
+    "en_name": "Makuhita",
+    "types": [
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#297",
+    "tw_name": "鐵掌力士",
+    "jp_name": "ハリテヤマ",
+    "en_name": "Hariyama",
+    "types": [
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#298",
+    "tw_name": "露力麗*",
+    "jp_name": "ルリリ",
+    "en_name": "Azurill",
+    "types": [
+      "一般",
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#299",
+    "tw_name": "朝北鼻",
+    "jp_name": "ノズパス",
+    "en_name": "Nosepass",
+    "types": [
+      "岩石"
+    ]
+  },
+  {
+    "global_id": "#300",
+    "tw_name": "向尾喵",
+    "jp_name": "エネコ",
+    "en_name": "Skitty",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#301",
+    "tw_name": "優雅貓",
+    "jp_name": "エネコロロ",
+    "en_name": "Delcatty",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#302",
+    "tw_name": "勾魂眼",
+    "jp_name": "ヤミラミ",
+    "en_name": "Sableye",
+    "types": [
+      "惡",
+      "幽靈"
+    ]
+  },
+  {
+    "global_id": "#303",
+    "tw_name": "大嘴娃*",
+    "jp_name": "クチート",
+    "en_name": "Mawile",
+    "types": [
+      "鋼",
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#304",
+    "tw_name": "可可多拉",
+    "jp_name": "ココドラ",
+    "en_name": "Aron",
+    "types": [
+      "鋼",
+      "岩石"
+    ]
+  },
+  {
+    "global_id": "#305",
+    "tw_name": "可多拉",
+    "jp_name": "コドラ",
+    "en_name": "Lairon",
+    "types": [
+      "鋼",
+      "岩石"
+    ]
+  },
+  {
+    "global_id": "#306",
+    "tw_name": "波士可多拉",
+    "jp_name": "ボスゴドラ",
+    "en_name": "Aggron",
+    "types": [
+      "鋼",
+      "岩石"
+    ]
+  },
+  {
+    "global_id": "#307",
+    "tw_name": "瑪沙那",
+    "jp_name": "アサナン",
+    "en_name": "Meditite",
+    "types": [
+      "格鬥",
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#308",
+    "tw_name": "恰雷姆",
+    "jp_name": "チャーレム",
+    "en_name": "Medicham",
+    "types": [
+      "格鬥",
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#309",
+    "tw_name": "落雷獸",
+    "jp_name": "ラクライ",
+    "en_name": "Electrike",
+    "types": [
+      "電"
+    ]
+  },
+  {
+    "global_id": "#310",
+    "tw_name": "雷電獸",
+    "jp_name": "ライボルト",
+    "en_name": "Manectric",
+    "types": [
+      "電"
+    ]
+  },
+  {
+    "global_id": "#311",
+    "tw_name": "正電拍拍",
+    "jp_name": "プラスル",
+    "en_name": "Plusle",
+    "types": [
+      "電"
+    ]
+  },
+  {
+    "global_id": "#312",
+    "tw_name": "負電拍拍",
+    "jp_name": "マイナン",
+    "en_name": "Minun",
+    "types": [
+      "電"
+    ]
+  },
+  {
+    "global_id": "#313",
+    "tw_name": "電螢蟲",
+    "jp_name": "バルビート",
+    "en_name": "Volbeat",
+    "types": [
+      "蟲"
+    ]
+  },
+  {
+    "global_id": "#314",
+    "tw_name": "甜甜螢",
+    "jp_name": "イルミーゼ",
+    "en_name": "Illumise",
+    "types": [
+      "蟲"
+    ]
+  },
+  {
+    "global_id": "#315",
+    "tw_name": "毒薔薇",
+    "jp_name": "ロゼリア",
+    "en_name": "Roselia",
+    "types": [
+      "草",
+      "毒"
+    ]
+  },
+  {
+    "global_id": "#316",
+    "tw_name": "溶食獸",
+    "jp_name": "ゴクリン",
+    "en_name": "Gulpin",
+    "types": [
+      "毒"
+    ]
+  },
+  {
+    "global_id": "#317",
+    "tw_name": "吞食獸",
+    "jp_name": "マルノーム",
+    "en_name": "Swalot",
+    "types": [
+      "毒"
+    ]
+  },
+  {
+    "global_id": "#318",
+    "tw_name": "利牙魚",
+    "jp_name": "キバニア",
+    "en_name": "Carvanha",
+    "types": [
+      "水",
+      "惡"
+    ]
+  },
+  {
+    "global_id": "#319",
+    "tw_name": "巨牙鯊",
+    "jp_name": "サメハダー",
+    "en_name": "Sharpedo",
+    "types": [
+      "水",
+      "惡"
+    ]
+  },
+  {
+    "global_id": "#320",
+    "tw_name": "吼吼鯨",
+    "jp_name": "ホエルコ",
+    "en_name": "Wailmer",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#321",
+    "tw_name": "吼鯨王",
+    "jp_name": "ホエルオー",
+    "en_name": "Wailord",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#322",
+    "tw_name": "呆火駝",
+    "jp_name": "ドンメル",
+    "en_name": "Numel",
+    "types": [
+      "火",
+      "地面"
+    ]
+  },
+  {
+    "global_id": "#323",
+    "tw_name": "噴火駝",
+    "jp_name": "バクーダ",
+    "en_name": "Camerupt",
+    "types": [
+      "火",
+      "地面"
+    ]
+  },
+  {
+    "global_id": "#324",
+    "tw_name": "煤炭龜",
+    "jp_name": "コータス",
+    "en_name": "Torkoal",
+    "types": [
+      "火"
+    ]
+  },
+  {
+    "global_id": "#325",
+    "tw_name": "跳跳豬",
+    "jp_name": "バネブー",
+    "en_name": "Spoink",
+    "types": [
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#326",
+    "tw_name": "噗噗豬",
+    "jp_name": "ブーピッグ",
+    "en_name": "Grumpig",
+    "types": [
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#327",
+    "tw_name": "晃晃斑",
+    "jp_name": "パッチール",
+    "en_name": "Spinda",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#328",
+    "tw_name": "大顎蟻",
+    "jp_name": "ナックラー",
+    "en_name": "Trapinch",
+    "types": [
+      "地面"
+    ]
+  },
+  {
+    "global_id": "#329",
+    "tw_name": "超音波幼蟲",
+    "jp_name": "ビブラーバ",
+    "en_name": "Vibrava",
+    "types": [
+      "地面",
+      "龍"
+    ]
+  },
+  {
+    "global_id": "#330",
+    "tw_name": "沙漠蜻蜓",
+    "jp_name": "フライゴン",
+    "en_name": "Flygon",
+    "types": [
+      "地面",
+      "龍"
+    ]
+  },
+  {
+    "global_id": "#331",
+    "tw_name": "刺球仙人掌",
+    "jp_name": "サボネア",
+    "en_name": "Cacnea",
+    "types": [
+      "草"
+    ]
+  },
+  {
+    "global_id": "#332",
+    "tw_name": "夢歌仙人掌",
+    "jp_name": "ノクタス",
+    "en_name": "Cacturne",
+    "types": [
+      "草",
+      "惡"
+    ]
+  },
+  {
+    "global_id": "#333",
+    "tw_name": "青綿鳥",
+    "jp_name": "チルット",
+    "en_name": "Swablu",
+    "types": [
+      "一般",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#334",
+    "tw_name": "七夕青鳥",
+    "jp_name": "チルタリス",
+    "en_name": "Altaria",
+    "types": [
+      "龍",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#335",
+    "tw_name": "貓鼬斬",
+    "jp_name": "ザングース",
+    "en_name": "Zangoose",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#336",
+    "tw_name": "飯匙蛇",
+    "jp_name": "ハブネーク",
+    "en_name": "Seviper",
+    "types": [
+      "毒"
+    ]
+  },
+  {
+    "global_id": "#337",
+    "tw_name": "月石",
+    "jp_name": "ルナトーン",
+    "en_name": "Lunatone",
+    "types": [
+      "岩石",
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#338",
+    "tw_name": "太陽岩",
+    "jp_name": "ソルロック",
+    "en_name": "Solrock",
+    "types": [
+      "岩石",
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#339",
+    "tw_name": "泥泥鰍",
+    "jp_name": "ドジョッチ",
+    "en_name": "Barboach",
+    "types": [
+      "水",
+      "地面"
+    ]
+  },
+  {
+    "global_id": "#340",
+    "tw_name": "鯰魚王",
+    "jp_name": "ナマズン",
+    "en_name": "Whiscash",
+    "types": [
+      "水",
+      "地面"
+    ]
+  },
+  {
+    "global_id": "#341",
+    "tw_name": "龍蝦小兵",
+    "jp_name": "ヘイガニ",
+    "en_name": "Corphish",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#342",
+    "tw_name": "鐵螯龍蝦",
+    "jp_name": "シザリガー",
+    "en_name": "Crawdaunt",
+    "types": [
+      "水",
+      "惡"
+    ]
+  },
+  {
+    "global_id": "#343",
+    "tw_name": "天秤偶",
+    "jp_name": "ヤジロン",
+    "en_name": "Baltoy",
+    "types": [
+      "地面",
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#344",
+    "tw_name": "念力土偶",
+    "jp_name": "ネンドール",
+    "en_name": "Claydol",
+    "types": [
+      "地面",
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#345",
+    "tw_name": "觸手百合",
+    "jp_name": "リリーラ",
+    "en_name": "Lileep",
+    "types": [
+      "岩石",
+      "草"
+    ]
+  },
+  {
+    "global_id": "#346",
+    "tw_name": "搖籃百合",
+    "jp_name": "ユレイドル",
+    "en_name": "Cradily",
+    "types": [
+      "岩石",
+      "草"
+    ]
+  },
+  {
+    "global_id": "#347",
+    "tw_name": "太古羽蟲",
+    "jp_name": "アノプス",
+    "en_name": "Anorith",
+    "types": [
+      "岩石",
+      "蟲"
+    ]
+  },
+  {
+    "global_id": "#348",
+    "tw_name": "太古盔甲",
+    "jp_name": "アーマルド",
+    "en_name": "Armaldo",
+    "types": [
+      "岩石",
+      "蟲"
+    ]
+  },
+  {
+    "global_id": "#349",
+    "tw_name": "醜醜魚",
+    "jp_name": "ヒンバス",
+    "en_name": "Feebas",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#350",
+    "tw_name": "美納斯",
+    "jp_name": "ミロカロス",
+    "en_name": "Milotic",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#351",
+    "tw_name": "飄浮泡泡",
+    "jp_name": "ポワルン",
+    "en_name": "Castform",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#352",
+    "tw_name": "變隱龍",
+    "jp_name": "カクレオン",
+    "en_name": "Kecleon",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#353",
+    "tw_name": "怨影娃娃",
+    "jp_name": "カゲボウズ",
+    "en_name": "Shuppet",
+    "types": [
+      "幽靈"
+    ]
+  },
+  {
+    "global_id": "#354",
+    "tw_name": "詛咒娃娃",
+    "jp_name": "ジュペッタ",
+    "en_name": "Banette",
+    "types": [
+      "幽靈"
+    ]
+  },
+  {
+    "global_id": "#355",
+    "tw_name": "夜巡靈",
+    "jp_name": "ヨマワル",
+    "en_name": "Duskull",
+    "types": [
+      "幽靈"
+    ]
+  },
+  {
+    "global_id": "#356",
+    "tw_name": "彷徨夜靈",
+    "jp_name": "サマヨール",
+    "en_name": "Dusclops",
+    "types": [
+      "幽靈"
+    ]
+  },
+  {
+    "global_id": "#357",
+    "tw_name": "熱帶龍",
+    "jp_name": "トロピウス",
+    "en_name": "Tropius",
+    "types": [
+      "草",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#358",
+    "tw_name": "風鈴鈴",
+    "jp_name": "チリーン",
+    "en_name": "Chimecho",
+    "types": [
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#359",
+    "tw_name": "阿勃梭魯",
+    "jp_name": "アブソル",
+    "en_name": "Absol",
+    "types": [
+      "惡"
+    ]
+  },
+  {
+    "global_id": "#360",
+    "tw_name": "小果然",
+    "jp_name": "ソーナノ",
+    "en_name": "Wynaut",
+    "types": [
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#361",
+    "tw_name": "雪童子",
+    "jp_name": "ユキワラシ",
+    "en_name": "Snorunt",
+    "types": [
+      "冰"
+    ]
+  },
+  {
+    "global_id": "#362",
+    "tw_name": "冰鬼護",
+    "jp_name": "オニゴーリ",
+    "en_name": "Glalie",
+    "types": [
+      "冰"
+    ]
+  },
+  {
+    "global_id": "#363",
+    "tw_name": "海豹球",
+    "jp_name": "タマザラシ",
+    "en_name": "Spheal",
+    "types": [
+      "冰",
+      "水"
+    ]
+  },
+  {
+    "global_id": "#364",
+    "tw_name": "海魔獅",
+    "jp_name": "トドグラー",
+    "en_name": "Sealeo",
+    "types": [
+      "冰",
+      "水"
+    ]
+  },
+  {
+    "global_id": "#365",
+    "tw_name": "帝牙海獅",
+    "jp_name": "トドゼルガ",
+    "en_name": "Walrein",
+    "types": [
+      "冰",
+      "水"
+    ]
+  },
+  {
+    "global_id": "#366",
+    "tw_name": "珍珠貝",
+    "jp_name": "パールル",
+    "en_name": "Clamperl",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#367",
+    "tw_name": "獵斑魚",
+    "jp_name": "ハンテール",
+    "en_name": "Huntail",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#368",
+    "tw_name": "櫻花魚",
+    "jp_name": "サクラビス",
+    "en_name": "Gorebyss",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#369",
+    "tw_name": "古空棘魚",
+    "jp_name": "ジーランス",
+    "en_name": "Relicanth",
+    "types": [
+      "水",
+      "岩石"
+    ]
+  },
+  {
+    "global_id": "#370",
+    "tw_name": "愛心魚",
+    "jp_name": "ラブカス",
+    "en_name": "Luvdisc",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#371",
+    "tw_name": "寶貝龍",
+    "jp_name": "タツベイ",
+    "en_name": "Bagon",
+    "types": [
+      "龍"
+    ]
+  },
+  {
+    "global_id": "#372",
+    "tw_name": "甲殼龍",
+    "jp_name": "コモルー",
+    "en_name": "Shelgon",
+    "types": [
+      "龍"
+    ]
+  },
+  {
+    "global_id": "#373",
+    "tw_name": "暴飛龍",
+    "jp_name": "ボーマンダ",
+    "en_name": "Salamence",
+    "types": [
+      "龍",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#374",
+    "tw_name": "鐵啞鈴",
+    "jp_name": "ダンバル",
+    "en_name": "Beldum",
+    "types": [
+      "鋼",
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#375",
+    "tw_name": "金屬怪",
+    "jp_name": "メタング",
+    "en_name": "Metang",
+    "types": [
+      "鋼",
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#376",
+    "tw_name": "巨金怪",
+    "jp_name": "メタグロス",
+    "en_name": "Metagross",
+    "types": [
+      "鋼",
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#377",
+    "tw_name": "雷吉洛克",
+    "jp_name": "レジロック",
+    "en_name": "Regirock",
+    "types": [
+      "岩石"
+    ]
+  },
+  {
+    "global_id": "#378",
+    "tw_name": "雷吉艾斯",
+    "jp_name": "レジアイス",
+    "en_name": "Regice",
+    "types": [
+      "冰"
+    ]
+  },
+  {
+    "global_id": "#379",
+    "tw_name": "雷吉斯奇魯",
+    "jp_name": "レジスチル",
+    "en_name": "Registeel",
+    "types": [
+      "鋼"
+    ]
+  },
+  {
+    "global_id": "#380",
+    "tw_name": "拉帝亞斯",
+    "jp_name": "ラティアス",
+    "en_name": "Latias",
+    "types": [
+      "龍",
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#381",
+    "tw_name": "拉帝歐斯",
+    "jp_name": "ラティオス",
+    "en_name": "Latios",
+    "types": [
+      "龍",
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#382",
+    "tw_name": "蓋歐卡",
+    "jp_name": "カイオーガ",
+    "en_name": "Kyogre",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#383",
+    "tw_name": "固拉多",
+    "jp_name": "グラードン",
+    "en_name": "Groudon",
+    "types": [
+      "地面"
+    ]
+  },
+  {
+    "global_id": "#384",
+    "tw_name": "烈空坐",
+    "jp_name": "レックウザ",
+    "en_name": "Rayquaza",
+    "types": [
+      "龍",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#385",
+    "tw_name": "基拉祈",
+    "jp_name": "ジラーチ",
+    "en_name": "Jirachi",
+    "types": [
+      "鋼",
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#386",
+    "tw_name": "代歐奇希斯",
+    "jp_name": "デオキシス",
+    "en_name": "Deoxys",
+    "types": [
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#387",
+    "tw_name": "草苗龜",
+    "jp_name": "ナエトル",
+    "en_name": "Turtwig",
+    "types": [
+      "草"
+    ]
+  },
+  {
+    "global_id": "#388",
+    "tw_name": "樹林龜",
+    "jp_name": "ハヤシガメ",
+    "en_name": "Grotle",
+    "types": [
+      "草"
+    ]
+  },
+  {
+    "global_id": "#389",
+    "tw_name": "土台龜",
+    "jp_name": "ドダイトス",
+    "en_name": "Torterra",
+    "types": [
+      "草",
+      "地面"
+    ]
+  },
+  {
+    "global_id": "#390",
+    "tw_name": "小火焰猴",
+    "jp_name": "ヒコザル",
+    "en_name": "Chimchar",
+    "types": [
+      "火"
+    ]
+  },
+  {
+    "global_id": "#391",
+    "tw_name": "猛火猴",
+    "jp_name": "モウカザル",
+    "en_name": "Monferno",
+    "types": [
+      "火",
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#392",
+    "tw_name": "烈焰猴",
+    "jp_name": "ゴウカザル",
+    "en_name": "Infernape",
+    "types": [
+      "火",
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#393",
+    "tw_name": "波加曼",
+    "jp_name": "ポッチャマ",
+    "en_name": "Piplup",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#394",
+    "tw_name": "波皇子",
+    "jp_name": "ポッタイシ",
+    "en_name": "Prinplup",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#395",
+    "tw_name": "帝王拿波",
+    "jp_name": "エンペルト",
+    "en_name": "Empoleon",
+    "types": [
+      "水",
+      "鋼"
+    ]
+  },
+  {
+    "global_id": "#396",
+    "tw_name": "姆克兒",
+    "jp_name": "ムックル",
+    "en_name": "Starly",
+    "types": [
+      "一般",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#397",
+    "tw_name": "姆克鳥",
+    "jp_name": "ムクバード",
+    "en_name": "Staravia",
+    "types": [
+      "一般",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#398",
+    "tw_name": "姆克鷹",
+    "jp_name": "ムクホーク",
+    "en_name": "Staraptor",
+    "types": [
+      "一般",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#399",
+    "tw_name": "大牙狸",
+    "jp_name": "ビッパ",
+    "en_name": "Bidoof",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#400",
+    "tw_name": "大尾狸",
+    "jp_name": "ビーダル",
+    "en_name": "Bibarel",
+    "types": [
+      "一般",
+      "水"
+    ]
+  },
+  {
+    "global_id": "#401",
+    "tw_name": "圓法師",
+    "jp_name": "コロボーシ",
+    "en_name": "Kricketot",
+    "types": [
+      "蟲"
+    ]
+  },
+  {
+    "global_id": "#402",
+    "tw_name": "音箱蟀",
+    "jp_name": "コロトック",
+    "en_name": "Kricketune",
+    "types": [
+      "蟲"
+    ]
+  },
+  {
+    "global_id": "#403",
+    "tw_name": "小貓怪",
+    "jp_name": "コリンク",
+    "en_name": "Shinx",
+    "types": [
+      "電"
+    ]
+  },
+  {
+    "global_id": "#404",
+    "tw_name": "勒克貓",
+    "jp_name": "ルクシオ",
+    "en_name": "Luxio",
+    "types": [
+      "電"
+    ]
+  },
+  {
+    "global_id": "#405",
+    "tw_name": "倫琴貓",
+    "jp_name": "レントラー",
+    "en_name": "Luxray",
+    "types": [
+      "電"
+    ]
+  },
+  {
+    "global_id": "#406",
+    "tw_name": "含羞苞",
+    "jp_name": "スボミー",
+    "en_name": "Budew",
+    "types": [
+      "草",
+      "毒"
+    ]
+  },
+  {
+    "global_id": "#407",
+    "tw_name": "羅絲雷朵",
+    "jp_name": "ロズレイド",
+    "en_name": "Roserade",
+    "types": [
+      "草",
+      "毒"
+    ]
+  },
+  {
+    "global_id": "#408",
+    "tw_name": "頭蓋龍",
+    "jp_name": "ズガイドス",
+    "en_name": "Cranidos",
+    "types": [
+      "岩石"
+    ]
+  },
+  {
+    "global_id": "#409",
+    "tw_name": "戰槌龍",
+    "jp_name": "ラムパルド",
+    "en_name": "Rampardos",
+    "types": [
+      "岩石"
+    ]
+  },
+  {
+    "global_id": "#410",
+    "tw_name": "盾甲龍",
+    "jp_name": "タテトプス",
+    "en_name": "Shieldon",
+    "types": [
+      "岩石",
+      "鋼"
+    ]
+  },
+  {
+    "global_id": "#411",
+    "tw_name": "護城龍",
+    "jp_name": "トリデプス",
+    "en_name": "Bastiodon",
+    "types": [
+      "岩石",
+      "鋼"
+    ]
+  },
+  {
+    "global_id": "#412",
+    "tw_name": "結草兒",
+    "jp_name": "ミノムッチ",
+    "en_name": "Burmy",
+    "types": [
+      "蟲"
+    ]
+  },
+  {
+    "global_id": "#413",
+    "tw_name": "結草貴婦",
+    "jp_name": "ミノマダム",
+    "en_name": "Wormadam",
+    "types": [
+      "蟲",
+      "草"
+    ]
+  },
+  {
+    "global_id": "#414",
+    "tw_name": "紳士蛾",
+    "jp_name": "ガーメイル",
+    "en_name": "Mothim",
+    "types": [
+      "蟲",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#415",
+    "tw_name": "三蜜蜂",
+    "jp_name": "ミツハニー",
+    "en_name": "Combee",
+    "types": [
+      "蟲",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#416",
+    "tw_name": "蜂女王",
+    "jp_name": "ビークイン",
+    "en_name": "Vespiquen",
+    "types": [
+      "蟲",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#417",
+    "tw_name": "帕奇利茲",
+    "jp_name": "パチリス",
+    "en_name": "Pachirisu",
+    "types": [
+      "電"
+    ]
+  },
+  {
+    "global_id": "#418",
+    "tw_name": "泳圈鼬",
+    "jp_name": "ブイゼル",
+    "en_name": "Buizel",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#419",
+    "tw_name": "浮潛鼬",
+    "jp_name": "フローゼル",
+    "en_name": "Floatzel",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#420",
+    "tw_name": "櫻花寶",
+    "jp_name": "チェリンボ",
+    "en_name": "Cherubi",
+    "types": [
+      "草"
+    ]
+  },
+  {
+    "global_id": "#421",
+    "tw_name": "櫻花兒",
+    "jp_name": "チェリム",
+    "en_name": "Cherrim",
+    "types": [
+      "草"
+    ]
+  },
+  {
+    "global_id": "#422",
+    "tw_name": "無殼海兔",
+    "jp_name": "カラナクシ",
+    "en_name": "Shellos",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#423",
+    "tw_name": "海兔獸",
+    "jp_name": "トリトドン",
+    "en_name": "Gastrodon",
+    "types": [
+      "水",
+      "地面"
+    ]
+  },
+  {
+    "global_id": "#424",
+    "tw_name": "雙尾怪手",
+    "jp_name": "エテボース",
+    "en_name": "Ambipom",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#425",
+    "tw_name": "飄飄球",
+    "jp_name": "フワンテ",
+    "en_name": "Drifloon",
+    "types": [
+      "幽靈",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#426",
+    "tw_name": "隨風球",
+    "jp_name": "フワライド",
+    "en_name": "Drifblim",
+    "types": [
+      "幽靈",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#427",
+    "tw_name": "捲捲耳",
+    "jp_name": "ミミロル",
+    "en_name": "Buneary",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#428",
+    "tw_name": "長耳兔",
+    "jp_name": "ミミロップ",
+    "en_name": "Lopunny",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#429",
+    "tw_name": "夢妖魔",
+    "jp_name": "ムウマージ",
+    "en_name": "Mismagius",
+    "types": [
+      "幽靈"
+    ]
+  },
+  {
+    "global_id": "#430",
+    "tw_name": "烏鴉頭頭",
+    "jp_name": "ドンカラス",
+    "en_name": "Honchkrow",
+    "types": [
+      "惡",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#431",
+    "tw_name": "魅力喵",
+    "jp_name": "ニャルマー",
+    "en_name": "Glameow",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#432",
+    "tw_name": "東施喵",
+    "jp_name": "ブニャット",
+    "en_name": "Purugly",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#433",
+    "tw_name": "鈴鐺響",
+    "jp_name": "リーシャン",
+    "en_name": "Chingling",
+    "types": [
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#434",
+    "tw_name": "臭鼬噗",
+    "jp_name": "スカンプー",
+    "en_name": "Stunky",
+    "types": [
+      "毒",
+      "惡"
+    ]
+  },
+  {
+    "global_id": "#435",
+    "tw_name": "坦克臭鼬",
+    "jp_name": "スカタンク",
+    "en_name": "Skuntank",
+    "types": [
+      "毒",
+      "惡"
+    ]
+  },
+  {
+    "global_id": "#436",
+    "tw_name": "銅鏡怪",
+    "jp_name": "ドーミラー",
+    "en_name": "Bronzor",
+    "types": [
+      "鋼",
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#437",
+    "tw_name": "青銅鐘",
+    "jp_name": "ドータクン",
+    "en_name": "Bronzong",
+    "types": [
+      "鋼",
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#438",
+    "tw_name": "盆才怪",
+    "jp_name": "ウソハチ",
+    "en_name": "Bonsly",
+    "types": [
+      "岩石"
+    ]
+  },
+  {
+    "global_id": "#439",
+    "tw_name": "魔尼尼*",
+    "jp_name": "マネネ",
+    "en_name": "Mime Jr.",
+    "types": [
+      "超能力",
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#440",
+    "tw_name": "小福蛋",
+    "jp_name": "ピンプク",
+    "en_name": "Happiny",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#441",
+    "tw_name": "聒噪鳥",
+    "jp_name": "ペラップ",
+    "en_name": "Chatot",
+    "types": [
+      "一般",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#442",
+    "tw_name": "花岩怪",
+    "jp_name": "ミカルゲ",
+    "en_name": "Spiritomb",
+    "types": [
+      "幽靈",
+      "惡"
+    ]
+  },
+  {
+    "global_id": "#443",
+    "tw_name": "圓陸鯊",
+    "jp_name": "フカマル",
+    "en_name": "Gible",
+    "types": [
+      "龍",
+      "地面"
+    ]
+  },
+  {
+    "global_id": "#444",
+    "tw_name": "尖牙陸鯊",
+    "jp_name": "ガバイト",
+    "en_name": "Gabite",
+    "types": [
+      "龍",
+      "地面"
+    ]
+  },
+  {
+    "global_id": "#445",
+    "tw_name": "烈咬陸鯊",
+    "jp_name": "ガブリアス",
+    "en_name": "Garchomp",
+    "types": [
+      "龍",
+      "地面"
+    ]
+  },
+  {
+    "global_id": "#446",
+    "tw_name": "小卡比獸",
+    "jp_name": "ゴンベ",
+    "en_name": "Munchlax",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#447",
+    "tw_name": "利歐路",
+    "jp_name": "リオル",
+    "en_name": "Riolu",
+    "types": [
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#448",
+    "tw_name": "路卡利歐",
+    "jp_name": "ルカリオ",
+    "en_name": "Lucario",
+    "types": [
+      "格鬥",
+      "鋼"
+    ]
+  },
+  {
+    "global_id": "#449",
+    "tw_name": "沙河馬",
+    "jp_name": "ヒポポタス",
+    "en_name": "Hippopotas",
+    "types": [
+      "地面"
+    ]
+  },
+  {
+    "global_id": "#450",
+    "tw_name": "河馬獸",
+    "jp_name": "カバルドン",
+    "en_name": "Hippowdon",
+    "types": [
+      "地面"
+    ]
+  },
+  {
+    "global_id": "#451",
+    "tw_name": "鉗尾蠍",
+    "jp_name": "スコルピ",
+    "en_name": "Skorupi",
+    "types": [
+      "毒",
+      "蟲"
+    ]
+  },
+  {
+    "global_id": "#452",
+    "tw_name": "龍王蠍",
+    "jp_name": "ドラピオン",
+    "en_name": "Drapion",
+    "types": [
+      "毒",
+      "惡"
+    ]
+  },
+  {
+    "global_id": "#453",
+    "tw_name": "不良蛙",
+    "jp_name": "グレッグル",
+    "en_name": "Croagunk",
+    "types": [
+      "毒",
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#454",
+    "tw_name": "毒骷蛙",
+    "jp_name": "ドクロッグ",
+    "en_name": "Toxicroak",
+    "types": [
+      "毒",
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#455",
+    "tw_name": "尖牙籠",
+    "jp_name": "マスキッパ",
+    "en_name": "Carnivine",
+    "types": [
+      "草"
+    ]
+  },
+  {
+    "global_id": "#456",
+    "tw_name": "螢光魚",
+    "jp_name": "ケイコウオ",
+    "en_name": "Finneon",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#457",
+    "tw_name": "霓虹魚",
+    "jp_name": "ネオラント",
+    "en_name": "Lumineon",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#458",
+    "tw_name": "小球飛魚",
+    "jp_name": "タマンタ",
+    "en_name": "Mantyke",
+    "types": [
+      "水",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#459",
+    "tw_name": "雪笠怪",
+    "jp_name": "ユキカブリ",
+    "en_name": "Snover",
+    "types": [
+      "草",
+      "冰"
+    ]
+  },
+  {
+    "global_id": "#460",
+    "tw_name": "暴雪王",
+    "jp_name": "ユキノオー",
+    "en_name": "Abomasnow",
+    "types": [
+      "草",
+      "冰"
+    ]
+  },
+  {
+    "global_id": "#461",
+    "tw_name": "瑪狃拉",
+    "jp_name": "マニューラ",
+    "en_name": "Weavile",
+    "types": [
+      "惡",
+      "冰"
+    ]
+  },
+  {
+    "global_id": "#462",
+    "tw_name": "自爆磁怪",
+    "jp_name": "ジバコイル",
+    "en_name": "Magnezone",
+    "types": [
+      "電",
+      "鋼"
+    ]
+  },
+  {
+    "global_id": "#463",
+    "tw_name": "大舌舔",
+    "jp_name": "ベロベルト",
+    "en_name": "Lickilicky",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#464",
+    "tw_name": "超甲狂犀",
+    "jp_name": "ドサイドン",
+    "en_name": "Rhyperior",
+    "types": [
+      "地面",
+      "岩石"
+    ]
+  },
+  {
+    "global_id": "#465",
+    "tw_name": "巨蔓藤",
+    "jp_name": "モジャンボ",
+    "en_name": "Tangrowth",
+    "types": [
+      "草"
+    ]
+  },
+  {
+    "global_id": "#466",
+    "tw_name": "電擊魔獸",
+    "jp_name": "エレキブル",
+    "en_name": "Electivire",
+    "types": [
+      "電"
+    ]
+  },
+  {
+    "global_id": "#467",
+    "tw_name": "鴨嘴炎獸",
+    "jp_name": "ブーバーン",
+    "en_name": "Magmortar",
+    "types": [
+      "火"
+    ]
+  },
+  {
+    "global_id": "#468",
+    "tw_name": "波克基斯*",
+    "jp_name": "トゲキッス",
+    "en_name": "Togekiss",
+    "types": [
+      "妖精",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#469",
+    "tw_name": "遠古巨蜓",
+    "jp_name": "メガヤンマ",
+    "en_name": "Yanmega",
+    "types": [
+      "蟲",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#470",
+    "tw_name": "葉伊布",
+    "jp_name": "リーフィア",
+    "en_name": "Leafeon",
+    "types": [
+      "草"
+    ]
+  },
+  {
+    "global_id": "#471",
+    "tw_name": "冰伊布",
+    "jp_name": "グレイシア",
+    "en_name": "Glaceon",
+    "types": [
+      "冰"
+    ]
+  },
+  {
+    "global_id": "#472",
+    "tw_name": "天蠍王",
+    "jp_name": "グライオン",
+    "en_name": "Gliscor",
+    "types": [
+      "地面",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#473",
+    "tw_name": "象牙豬",
+    "jp_name": "マンムー",
+    "en_name": "Mamoswine",
+    "types": [
+      "冰",
+      "地面"
+    ]
+  },
+  {
+    "global_id": "#474",
+    "tw_name": "多邊獸Ｚ",
+    "jp_name": "ポリゴンＺ",
+    "en_name": "Porygon-Z",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#475",
+    "tw_name": "艾路雷朵",
+    "jp_name": "エルレイド",
+    "en_name": "Gallade",
+    "types": [
+      "超能力",
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#476",
+    "tw_name": "大朝北鼻",
+    "jp_name": "ダイノーズ",
+    "en_name": "Probopass",
+    "types": [
+      "岩石",
+      "鋼"
+    ]
+  },
+  {
+    "global_id": "#477",
+    "tw_name": "黑夜魔靈",
+    "jp_name": "ヨノワール",
+    "en_name": "Dusknoir",
+    "types": [
+      "幽靈"
+    ]
+  },
+  {
+    "global_id": "#478",
+    "tw_name": "雪妖女",
+    "jp_name": "ユキメノコ",
+    "en_name": "Froslass",
+    "types": [
+      "冰",
+      "幽靈"
+    ]
+  },
+  {
+    "global_id": "#479",
+    "tw_name": "洛托姆",
+    "jp_name": "ロトム",
+    "en_name": "Rotom",
+    "types": [
+      "電",
+      "幽靈"
+    ]
+  },
+  {
+    "global_id": "#480",
+    "tw_name": "由克希",
+    "jp_name": "ユクシー",
+    "en_name": "Uxie",
+    "types": [
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#481",
+    "tw_name": "艾姆利多",
+    "jp_name": "エムリット",
+    "en_name": "Mesprit",
+    "types": [
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#482",
+    "tw_name": "亞克諾姆",
+    "jp_name": "アグノム",
+    "en_name": "Azelf",
+    "types": [
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#483",
+    "tw_name": "帝牙盧卡",
+    "jp_name": "ディアルガ",
+    "en_name": "Dialga",
+    "types": [
+      "鋼",
+      "龍"
+    ]
+  },
+  {
+    "global_id": "#484",
+    "tw_name": "帕路奇亞",
+    "jp_name": "パルキア",
+    "en_name": "Palkia",
+    "types": [
+      "水",
+      "龍"
+    ]
+  },
+  {
+    "global_id": "#485",
+    "tw_name": "席多藍恩",
+    "jp_name": "ヒードラン",
+    "en_name": "Heatran",
+    "types": [
+      "火",
+      "鋼"
+    ]
+  },
+  {
+    "global_id": "#486",
+    "tw_name": "雷吉奇卡斯",
+    "jp_name": "レジギガス",
+    "en_name": "Regigigas",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#487",
+    "tw_name": "騎拉帝納",
+    "jp_name": "ギラティナ",
+    "en_name": "Giratina",
+    "types": [
+      "幽靈",
+      "龍"
+    ]
+  },
+  {
+    "global_id": "#488",
+    "tw_name": "克雷色利亞",
+    "jp_name": "クレセリア",
+    "en_name": "Cresselia",
+    "types": [
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#489",
+    "tw_name": "霏歐納",
+    "jp_name": "フィオネ",
+    "en_name": "Phione",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#490",
+    "tw_name": "瑪納霏",
+    "jp_name": "マナフィ",
+    "en_name": "Manaphy",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#491",
+    "tw_name": "達克萊伊",
+    "jp_name": "ダークライ",
+    "en_name": "Darkrai",
+    "types": [
+      "惡"
+    ]
+  },
+  {
+    "global_id": "#492",
+    "tw_name": "謝米",
+    "jp_name": "シェイミ",
+    "en_name": "Shaymin",
+    "types": [
+      "草"
+    ]
+  },
+  {
+    "global_id": "#493",
+    "tw_name": "阿爾宙斯",
+    "jp_name": "アルセウス",
+    "en_name": "Arceus",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#494",
+    "tw_name": "比克提尼",
+    "jp_name": "ビクティニ",
+    "en_name": "Victini",
+    "types": [
+      "超能力",
+      "火"
+    ]
+  },
+  {
+    "global_id": "#495",
+    "tw_name": "藤藤蛇",
+    "jp_name": "ツタージャ",
+    "en_name": "Snivy",
+    "types": [
+      "草"
+    ]
+  },
+  {
+    "global_id": "#496",
+    "tw_name": "青藤蛇",
+    "jp_name": "ジャノビー",
+    "en_name": "Servine",
+    "types": [
+      "草"
+    ]
+  },
+  {
+    "global_id": "#497",
+    "tw_name": "君主蛇",
+    "jp_name": "ジャローダ",
+    "en_name": "Serperior",
+    "types": [
+      "草"
+    ]
+  },
+  {
+    "global_id": "#498",
+    "tw_name": "暖暖豬",
+    "jp_name": "ポカブ",
+    "en_name": "Tepig",
+    "types": [
+      "火"
+    ]
+  },
+  {
+    "global_id": "#499",
+    "tw_name": "炒炒豬",
+    "jp_name": "チャオブー",
+    "en_name": "Pignite",
+    "types": [
+      "火",
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#500",
+    "tw_name": "炎武王",
+    "jp_name": "エンブオー",
+    "en_name": "Emboar",
+    "types": [
+      "火",
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#501",
+    "tw_name": "水水獺",
+    "jp_name": "ミジュマル",
+    "en_name": "Oshawott",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#502",
+    "tw_name": "雙刃丸",
+    "jp_name": "フタチマル",
+    "en_name": "Dewott",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#503",
+    "tw_name": "大劍鬼",
+    "jp_name": "ダイケンキ",
+    "en_name": "Samurott",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#504",
+    "tw_name": "探探鼠",
+    "jp_name": "ミネズミ",
+    "en_name": "Patrat",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#505",
+    "tw_name": "步哨鼠",
+    "jp_name": "ミルホッグ",
+    "en_name": "Watchog",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#506",
+    "tw_name": "小約克",
+    "jp_name": "ヨーテリー",
+    "en_name": "Lillipup",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#507",
+    "tw_name": "哈約克",
+    "jp_name": "ハーデリア",
+    "en_name": "Herdier",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#508",
+    "tw_name": "長毛狗",
+    "jp_name": "ムーランド",
+    "en_name": "Stoutland",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#509",
+    "tw_name": "扒手貓",
+    "jp_name": "チョロネコ",
+    "en_name": "Purrloin",
+    "types": [
+      "惡"
+    ]
+  },
+  {
+    "global_id": "#510",
+    "tw_name": "酷豹",
+    "jp_name": "レパルダス",
+    "en_name": "Liepard",
+    "types": [
+      "惡"
+    ]
+  },
+  {
+    "global_id": "#511",
+    "tw_name": "花椰猴",
+    "jp_name": "ヤナップ",
+    "en_name": "Pansage",
+    "types": [
+      "草"
+    ]
+  },
+  {
+    "global_id": "#512",
+    "tw_name": "花椰猿",
+    "jp_name": "ヤナッキー",
+    "en_name": "Simisage",
+    "types": [
+      "草"
+    ]
+  },
+  {
+    "global_id": "#513",
+    "tw_name": "爆香猴",
+    "jp_name": "バオップ",
+    "en_name": "Pansear",
+    "types": [
+      "火"
+    ]
+  },
+  {
+    "global_id": "#514",
+    "tw_name": "爆香猿",
+    "jp_name": "バオッキー",
+    "en_name": "Simisear",
+    "types": [
+      "火"
+    ]
+  },
+  {
+    "global_id": "#515",
+    "tw_name": "冷水猴",
+    "jp_name": "ヒヤップ",
+    "en_name": "Panpour",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#516",
+    "tw_name": "冷水猿",
+    "jp_name": "ヒヤッキー",
+    "en_name": "Simipour",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#517",
+    "tw_name": "食夢夢",
+    "jp_name": "ムンナ",
+    "en_name": "Munna",
+    "types": [
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#518",
+    "tw_name": "夢夢蝕",
+    "jp_name": "ムシャーナ",
+    "en_name": "Musharna",
+    "types": [
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#519",
+    "tw_name": "豆豆鴿",
+    "jp_name": "マメパト",
+    "en_name": "Pidove",
+    "types": [
+      "一般",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#520",
+    "tw_name": "咕咕鴿",
+    "jp_name": "ハトーボー",
+    "en_name": "Tranquill",
+    "types": [
+      "一般",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#521",
+    "tw_name": "高傲雉雞",
+    "jp_name": "ケンホロウ",
+    "en_name": "Unfezant",
+    "types": [
+      "一般",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#522",
+    "tw_name": "斑斑馬",
+    "jp_name": "シママ",
+    "en_name": "Blitzle",
+    "types": [
+      "電"
+    ]
+  },
+  {
+    "global_id": "#523",
+    "tw_name": "雷電斑馬",
+    "jp_name": "ゼブライカ",
+    "en_name": "Zebstrika",
+    "types": [
+      "電"
+    ]
+  },
+  {
+    "global_id": "#524",
+    "tw_name": "石丸子",
+    "jp_name": "ダンゴロ",
+    "en_name": "Roggenrola",
+    "types": [
+      "岩石"
+    ]
+  },
+  {
+    "global_id": "#525",
+    "tw_name": "地幔岩",
+    "jp_name": "ガントル",
+    "en_name": "Boldore",
+    "types": [
+      "岩石"
+    ]
+  },
+  {
+    "global_id": "#526",
+    "tw_name": "龐岩怪",
+    "jp_name": "ギガイアス",
+    "en_name": "Gigalith",
+    "types": [
+      "岩石"
+    ]
+  },
+  {
+    "global_id": "#527",
+    "tw_name": "滾滾蝙蝠",
+    "jp_name": "コロモリ",
+    "en_name": "Woobat",
+    "types": [
+      "超能力",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#528",
+    "tw_name": "心蝙蝠",
+    "jp_name": "ココロモリ",
+    "en_name": "Swoobat",
+    "types": [
+      "超能力",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#529",
+    "tw_name": "螺釘地鼠",
+    "jp_name": "モグリュー",
+    "en_name": "Drilbur",
+    "types": [
+      "地面"
+    ]
+  },
+  {
+    "global_id": "#530",
+    "tw_name": "龍頭地鼠",
+    "jp_name": "ドリュウズ",
+    "en_name": "Excadrill",
+    "types": [
+      "地面",
+      "鋼"
+    ]
+  },
+  {
+    "global_id": "#531",
+    "tw_name": "差不多娃娃",
+    "jp_name": "タブンネ",
+    "en_name": "Audino",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#532",
+    "tw_name": "搬運小匠",
+    "jp_name": "ドッコラー",
+    "en_name": "Timburr",
+    "types": [
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#533",
+    "tw_name": "鐵骨土人",
+    "jp_name": "ドテッコツ",
+    "en_name": "Gurdurr",
+    "types": [
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#534",
+    "tw_name": "修建老匠",
+    "jp_name": "ローブシン",
+    "en_name": "Conkeldurr",
+    "types": [
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#535",
+    "tw_name": "圓蝌蚪",
+    "jp_name": "オタマロ",
+    "en_name": "Tympole",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#536",
+    "tw_name": "藍蟾蜍",
+    "jp_name": "ガマガル",
+    "en_name": "Palpitoad",
+    "types": [
+      "水",
+      "地面"
+    ]
+  },
+  {
+    "global_id": "#537",
+    "tw_name": "蟾蜍王",
+    "jp_name": "ガマゲロゲ",
+    "en_name": "Seismitoad",
+    "types": [
+      "水",
+      "地面"
+    ]
+  },
+  {
+    "global_id": "#538",
+    "tw_name": "投摔鬼",
+    "jp_name": "ナゲキ",
+    "en_name": "Throh",
+    "types": [
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#539",
+    "tw_name": "打擊鬼",
+    "jp_name": "ダゲキ",
+    "en_name": "Sawk",
+    "types": [
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#540",
+    "tw_name": "蟲寶包",
+    "jp_name": "クルミル",
+    "en_name": "Sewaddle",
+    "types": [
+      "蟲",
+      "草"
+    ]
+  },
+  {
+    "global_id": "#541",
+    "tw_name": "寶包繭",
+    "jp_name": "クルマユ",
+    "en_name": "Swadloon",
+    "types": [
+      "蟲",
+      "草"
+    ]
+  },
+  {
+    "global_id": "#542",
+    "tw_name": "保母蟲",
+    "jp_name": "ハハコモリ",
+    "en_name": "Leavanny",
+    "types": [
+      "蟲",
+      "草"
+    ]
+  },
+  {
+    "global_id": "#543",
+    "tw_name": "百足蜈蚣",
+    "jp_name": "フシデ",
+    "en_name": "Venipede",
+    "types": [
+      "蟲",
+      "毒"
+    ]
+  },
+  {
+    "global_id": "#544",
+    "tw_name": "車輪毬",
+    "jp_name": "ホイーガ",
+    "en_name": "Whirlipede",
+    "types": [
+      "蟲",
+      "毒"
+    ]
+  },
+  {
+    "global_id": "#545",
+    "tw_name": "蜈蚣王",
+    "jp_name": "ペンドラー",
+    "en_name": "Scolipede",
+    "types": [
+      "蟲",
+      "毒"
+    ]
+  },
+  {
+    "global_id": "#546",
+    "tw_name": "木棉球*",
+    "jp_name": "モンメン",
+    "en_name": "Cottonee",
+    "types": [
+      "草",
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#547",
+    "tw_name": "風妖精*",
+    "jp_name": "エルフーン",
+    "en_name": "Whimsicott",
+    "types": [
+      "草",
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#548",
+    "tw_name": "百合根娃娃",
+    "jp_name": "チュリネ",
+    "en_name": "Petilil",
+    "types": [
+      "草"
+    ]
+  },
+  {
+    "global_id": "#549",
+    "tw_name": "裙兒小姐",
+    "jp_name": "ドレディア",
+    "en_name": "Lilligant",
+    "types": [
+      "草"
+    ]
+  },
+  {
+    "global_id": "#550",
+    "tw_name": "野蠻鱸魚",
+    "jp_name": "バスラオ",
+    "en_name": "Basculin",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#551",
+    "tw_name": "黑眼鱷",
+    "jp_name": "メグロコ",
+    "en_name": "Sandile",
+    "types": [
+      "地面",
+      "惡"
+    ]
+  },
+  {
+    "global_id": "#552",
+    "tw_name": "混混鱷",
+    "jp_name": "ワルビル",
+    "en_name": "Krokorok",
+    "types": [
+      "地面",
+      "惡"
+    ]
+  },
+  {
+    "global_id": "#553",
+    "tw_name": "流氓鱷",
+    "jp_name": "ワルビアル",
+    "en_name": "Krookodile",
+    "types": [
+      "地面",
+      "惡"
+    ]
+  },
+  {
+    "global_id": "#554",
+    "tw_name": "火紅不倒翁",
+    "jp_name": "ダルマッカ",
+    "en_name": "Darumaka",
+    "types": [
+      "火"
+    ]
+  },
+  {
+    "global_id": "#555",
+    "tw_name": "達摩狒狒",
+    "jp_name": "ヒヒダルマ",
+    "en_name": "Darmanitan",
+    "types": [
+      "火"
+    ]
+  },
+  {
+    "global_id": "#556",
+    "tw_name": "沙鈴仙人掌",
+    "jp_name": "マラカッチ",
+    "en_name": "Maractus",
+    "types": [
+      "草"
+    ]
+  },
+  {
+    "global_id": "#557",
+    "tw_name": "石居蟹",
+    "jp_name": "イシズマイ",
+    "en_name": "Dwebble",
+    "types": [
+      "蟲",
+      "岩石"
+    ]
+  },
+  {
+    "global_id": "#558",
+    "tw_name": "岩殿居蟹",
+    "jp_name": "イワパレス",
+    "en_name": "Crustle",
+    "types": [
+      "蟲",
+      "岩石"
+    ]
+  },
+  {
+    "global_id": "#559",
+    "tw_name": "滑滑小子",
+    "jp_name": "ズルッグ",
+    "en_name": "Scraggy",
+    "types": [
+      "惡",
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#560",
+    "tw_name": "頭巾混混",
+    "jp_name": "ズルズキン",
+    "en_name": "Scrafty",
+    "types": [
+      "惡",
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#561",
+    "tw_name": "象徵鳥",
+    "jp_name": "シンボラー",
+    "en_name": "Sigilyph",
+    "types": [
+      "超能力",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#562",
+    "tw_name": "哭哭面具",
+    "jp_name": "デスマス",
+    "en_name": "Yamask",
+    "types": [
+      "幽靈"
+    ]
+  },
+  {
+    "global_id": "#563",
+    "tw_name": "死神棺",
+    "jp_name": "デスカーン",
+    "en_name": "Cofagrigus",
+    "types": [
+      "幽靈"
+    ]
+  },
+  {
+    "global_id": "#564",
+    "tw_name": "原蓋海龜",
+    "jp_name": "プロトーガ",
+    "en_name": "Tirtouga",
+    "types": [
+      "水",
+      "岩石"
+    ]
+  },
+  {
+    "global_id": "#565",
+    "tw_name": "肋骨海龜",
+    "jp_name": "アバゴーラ",
+    "en_name": "Carracosta",
+    "types": [
+      "水",
+      "岩石"
+    ]
+  },
+  {
+    "global_id": "#566",
+    "tw_name": "始祖小鳥",
+    "jp_name": "アーケン",
+    "en_name": "Archen",
+    "types": [
+      "岩石",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#567",
+    "tw_name": "始祖大鳥",
+    "jp_name": "アーケオス",
+    "en_name": "Archeops",
+    "types": [
+      "岩石",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#568",
+    "tw_name": "破破袋",
+    "jp_name": "ヤブクロン",
+    "en_name": "Trubbish",
+    "types": [
+      "毒"
+    ]
+  },
+  {
+    "global_id": "#569",
+    "tw_name": "灰塵山",
+    "jp_name": "ダストダス",
+    "en_name": "Garbodor",
+    "types": [
+      "毒"
+    ]
+  },
+  {
+    "global_id": "#570",
+    "tw_name": "索羅亞",
+    "jp_name": "ゾロア",
+    "en_name": "Zorua",
+    "types": [
+      "惡"
+    ]
+  },
+  {
+    "global_id": "#571",
+    "tw_name": "索羅亞克",
+    "jp_name": "ゾロアーク",
+    "en_name": "Zoroark",
+    "types": [
+      "惡"
+    ]
+  },
+  {
+    "global_id": "#572",
+    "tw_name": "泡沫栗鼠",
+    "jp_name": "チラーミィ",
+    "en_name": "Minccino",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#573",
+    "tw_name": "奇諾栗鼠",
+    "jp_name": "チラチーノ",
+    "en_name": "Cinccino",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#574",
+    "tw_name": "哥德寶寶",
+    "jp_name": "ゴチム",
+    "en_name": "Gothita",
+    "types": [
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#575",
+    "tw_name": "哥德小童",
+    "jp_name": "ゴチミル",
+    "en_name": "Gothorita",
+    "types": [
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#576",
+    "tw_name": "哥德小姐",
+    "jp_name": "ゴチルゼル",
+    "en_name": "Gothitelle",
+    "types": [
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#577",
+    "tw_name": "單卵細胞球",
+    "jp_name": "ユニラン",
+    "en_name": "Solosis",
+    "types": [
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#578",
+    "tw_name": "雙卵細胞球",
+    "jp_name": "ダブラン",
+    "en_name": "Duosion",
+    "types": [
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#579",
+    "tw_name": "人造細胞卵",
+    "jp_name": "ランクルス",
+    "en_name": "Reuniclus",
+    "types": [
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#580",
+    "tw_name": "鴨寶寶",
+    "jp_name": "コアルヒー",
+    "en_name": "Ducklett",
+    "types": [
+      "水",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#581",
+    "tw_name": "舞天鵝",
+    "jp_name": "スワンナ",
+    "en_name": "Swanna",
+    "types": [
+      "水",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#582",
+    "tw_name": "迷你冰",
+    "jp_name": "バニプッチ",
+    "en_name": "Vanillite",
+    "types": [
+      "冰"
+    ]
+  },
+  {
+    "global_id": "#583",
+    "tw_name": "多多冰",
+    "jp_name": "バニリッチ",
+    "en_name": "Vanillish",
+    "types": [
+      "冰"
+    ]
+  },
+  {
+    "global_id": "#584",
+    "tw_name": "雙倍多多冰",
+    "jp_name": "バイバニラ",
+    "en_name": "Vanilluxe",
+    "types": [
+      "冰"
+    ]
+  },
+  {
+    "global_id": "#585",
+    "tw_name": "四季鹿",
+    "jp_name": "シキジカ",
+    "en_name": "Deerling",
+    "types": [
+      "一般",
+      "草"
+    ]
+  },
+  {
+    "global_id": "#586",
+    "tw_name": "萌芽鹿",
+    "jp_name": "メブキジカ",
+    "en_name": "Sawsbuck",
+    "types": [
+      "一般",
+      "草"
+    ]
+  },
+  {
+    "global_id": "#587",
+    "tw_name": "電飛鼠",
+    "jp_name": "エモンガ",
+    "en_name": "Emolga",
+    "types": [
+      "電",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#588",
+    "tw_name": "蓋蓋蟲",
+    "jp_name": "カブルモ",
+    "en_name": "Karrablast",
+    "types": [
+      "蟲"
+    ]
+  },
+  {
+    "global_id": "#589",
+    "tw_name": "騎士蝸牛",
+    "jp_name": "シュバルゴ",
+    "en_name": "Escavalier",
+    "types": [
+      "蟲",
+      "鋼"
+    ]
+  },
+  {
+    "global_id": "#590",
+    "tw_name": "哎呀球菇",
+    "jp_name": "タマゲタケ",
+    "en_name": "Foongus",
+    "types": [
+      "草",
+      "毒"
+    ]
+  },
+  {
+    "global_id": "#591",
+    "tw_name": "敗露球菇",
+    "jp_name": "モロバレル",
+    "en_name": "Amoonguss",
+    "types": [
+      "草",
+      "毒"
+    ]
+  },
+  {
+    "global_id": "#592",
+    "tw_name": "輕飄飄",
+    "jp_name": "プルリル",
+    "en_name": "Frillish",
+    "types": [
+      "水",
+      "幽靈"
+    ]
+  },
+  {
+    "global_id": "#593",
+    "tw_name": "胖嘟嘟",
+    "jp_name": "ブルンゲル",
+    "en_name": "Jellicent",
+    "types": [
+      "水",
+      "幽靈"
+    ]
+  },
+  {
+    "global_id": "#594",
+    "tw_name": "保母曼波",
+    "jp_name": "ママンボウ",
+    "en_name": "Alomomola",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#595",
+    "tw_name": "電電蟲",
+    "jp_name": "バチュル",
+    "en_name": "Joltik",
+    "types": [
+      "蟲",
+      "電"
+    ]
+  },
+  {
+    "global_id": "#596",
+    "tw_name": "電蜘蛛",
+    "jp_name": "デンチュラ",
+    "en_name": "Galvantula",
+    "types": [
+      "蟲",
+      "電"
+    ]
+  },
+  {
+    "global_id": "#597",
+    "tw_name": "種子鐵球",
+    "jp_name": "テッシード",
+    "en_name": "Ferroseed",
+    "types": [
+      "草",
+      "鋼"
+    ]
+  },
+  {
+    "global_id": "#598",
+    "tw_name": "堅果啞鈴",
+    "jp_name": "ナットレイ",
+    "en_name": "Ferrothorn",
+    "types": [
+      "草",
+      "鋼"
+    ]
+  },
+  {
+    "global_id": "#599",
+    "tw_name": "齒輪兒",
+    "jp_name": "ギアル",
+    "en_name": "Klink",
+    "types": [
+      "鋼"
+    ]
+  },
+  {
+    "global_id": "#600",
+    "tw_name": "齒輪組",
+    "jp_name": "ギギアル",
+    "en_name": "Klang",
+    "types": [
+      "鋼"
+    ]
+  },
+  {
+    "global_id": "#601",
+    "tw_name": "齒輪怪",
+    "jp_name": "ギギギアル",
+    "en_name": "Klinklang",
+    "types": [
+      "鋼"
+    ]
+  },
+  {
+    "global_id": "#602",
+    "tw_name": "麻麻小魚",
+    "jp_name": "シビシラス",
+    "en_name": "Tynamo",
+    "types": [
+      "電"
+    ]
+  },
+  {
+    "global_id": "#603",
+    "tw_name": "麻麻鰻",
+    "jp_name": "シビビール",
+    "en_name": "Eelektrik",
+    "types": [
+      "電"
+    ]
+  },
+  {
+    "global_id": "#604",
+    "tw_name": "麻麻鰻魚王",
+    "jp_name": "シビルドン",
+    "en_name": "Eelektross",
+    "types": [
+      "電"
+    ]
+  },
+  {
+    "global_id": "#605",
+    "tw_name": "小灰怪",
+    "jp_name": "リグレー",
+    "en_name": "Elgyem",
+    "types": [
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#606",
+    "tw_name": "大宇怪",
+    "jp_name": "オーベム",
+    "en_name": "Beheeyem",
+    "types": [
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#607",
+    "tw_name": "燭光靈",
+    "jp_name": "ヒトモシ",
+    "en_name": "Litwick",
+    "types": [
+      "幽靈",
+      "火"
+    ]
+  },
+  {
+    "global_id": "#608",
+    "tw_name": "燈火幽靈",
+    "jp_name": "ランプラー",
+    "en_name": "Lampent",
+    "types": [
+      "幽靈",
+      "火"
+    ]
+  },
+  {
+    "global_id": "#609",
+    "tw_name": "水晶燈火靈",
+    "jp_name": "シャンデラ",
+    "en_name": "Chandelure",
+    "types": [
+      "幽靈",
+      "火"
+    ]
+  },
+  {
+    "global_id": "#610",
+    "tw_name": "牙牙",
+    "jp_name": "キバゴ",
+    "en_name": "Axew",
+    "types": [
+      "龍"
+    ]
+  },
+  {
+    "global_id": "#611",
+    "tw_name": "斧牙龍",
+    "jp_name": "オノンド",
+    "en_name": "Fraxure",
+    "types": [
+      "龍"
+    ]
+  },
+  {
+    "global_id": "#612",
+    "tw_name": "雙斧戰龍",
+    "jp_name": "オノノクス",
+    "en_name": "Haxorus",
+    "types": [
+      "龍"
+    ]
+  },
+  {
+    "global_id": "#613",
+    "tw_name": "噴嚏熊",
+    "jp_name": "クマシュン",
+    "en_name": "Cubchoo",
+    "types": [
+      "冰"
+    ]
+  },
+  {
+    "global_id": "#614",
+    "tw_name": "凍原熊",
+    "jp_name": "ツンベアー",
+    "en_name": "Beartic",
+    "types": [
+      "冰"
+    ]
+  },
+  {
+    "global_id": "#615",
+    "tw_name": "幾何雪花",
+    "jp_name": "フリージオ",
+    "en_name": "Cryogonal",
+    "types": [
+      "冰"
+    ]
+  },
+  {
+    "global_id": "#616",
+    "tw_name": "小嘴蝸",
+    "jp_name": "チョボマキ",
+    "en_name": "Shelmet",
+    "types": [
+      "蟲"
+    ]
+  },
+  {
+    "global_id": "#617",
+    "tw_name": "敏捷蟲",
+    "jp_name": "アギルダー",
+    "en_name": "Accelgor",
+    "types": [
+      "蟲"
+    ]
+  },
+  {
+    "global_id": "#618",
+    "tw_name": "泥巴魚",
+    "jp_name": "マッギョ",
+    "en_name": "Stunfisk",
+    "types": [
+      "電",
+      "地面"
+    ]
+  },
+  {
+    "global_id": "#619",
+    "tw_name": "功夫鼬",
+    "jp_name": "コジョフー",
+    "en_name": "Mienfoo",
+    "types": [
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#620",
+    "tw_name": "師父鼬",
+    "jp_name": "コジョンド",
+    "en_name": "Mienshao",
+    "types": [
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#621",
+    "tw_name": "赤面龍",
+    "jp_name": "クリムガン",
+    "en_name": "Druddigon",
+    "types": [
+      "龍"
+    ]
+  },
+  {
+    "global_id": "#622",
+    "tw_name": "泥偶小人",
+    "jp_name": "ゴビット",
+    "en_name": "Golett",
+    "types": [
+      "地面",
+      "幽靈"
+    ]
+  },
+  {
+    "global_id": "#623",
+    "tw_name": "泥偶巨人",
+    "jp_name": "ゴルーグ",
+    "en_name": "Golurk",
+    "types": [
+      "地面",
+      "幽靈"
+    ]
+  },
+  {
+    "global_id": "#624",
+    "tw_name": "駒刀小兵",
+    "jp_name": "コマタナ",
+    "en_name": "Pawniard",
+    "types": [
+      "惡",
+      "鋼"
+    ]
+  },
+  {
+    "global_id": "#625",
+    "tw_name": "劈斬司令",
+    "jp_name": "キリキザン",
+    "en_name": "Bisharp",
+    "types": [
+      "惡",
+      "鋼"
+    ]
+  },
+  {
+    "global_id": "#626",
+    "tw_name": "爆炸頭水牛",
+    "jp_name": "バッフロン",
+    "en_name": "Bouffalant",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#627",
+    "tw_name": "毛頭小鷹",
+    "jp_name": "ワシボン",
+    "en_name": "Rufflet",
+    "types": [
+      "一般",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#628",
+    "tw_name": "勇士雄鷹",
+    "jp_name": "ウォーグル",
+    "en_name": "Braviary",
+    "types": [
+      "一般",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#629",
+    "tw_name": "禿鷹丫頭",
+    "jp_name": "バルチャイ",
+    "en_name": "Vullaby",
+    "types": [
+      "惡",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#630",
+    "tw_name": "禿鷹娜",
+    "jp_name": "バルジーナ",
+    "en_name": "Mandibuzz",
+    "types": [
+      "惡",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#631",
+    "tw_name": "熔蟻獸",
+    "jp_name": "クイタラン",
+    "en_name": "Heatmor",
+    "types": [
+      "火"
+    ]
+  },
+  {
+    "global_id": "#632",
+    "tw_name": "鐵蟻",
+    "jp_name": "アイアント",
+    "en_name": "Durant",
+    "types": [
+      "蟲",
+      "鋼"
+    ]
+  },
+  {
+    "global_id": "#633",
+    "tw_name": "單首龍",
+    "jp_name": "モノズ",
+    "en_name": "Deino",
+    "types": [
+      "惡",
+      "龍"
+    ]
+  },
+  {
+    "global_id": "#634",
+    "tw_name": "雙首暴龍",
+    "jp_name": "ジヘッド",
+    "en_name": "Zweilous",
+    "types": [
+      "惡",
+      "龍"
+    ]
+  },
+  {
+    "global_id": "#635",
+    "tw_name": "三首惡龍",
+    "jp_name": "サザンドラ",
+    "en_name": "Hydreigon",
+    "types": [
+      "惡",
+      "龍"
+    ]
+  },
+  {
+    "global_id": "#636",
+    "tw_name": "燃燒蟲",
+    "jp_name": "メラルバ",
+    "en_name": "Larvesta",
+    "types": [
+      "蟲",
+      "火"
+    ]
+  },
+  {
+    "global_id": "#637",
+    "tw_name": "火神蛾",
+    "jp_name": "ウルガモス",
+    "en_name": "Volcarona",
+    "types": [
+      "蟲",
+      "火"
+    ]
+  },
+  {
+    "global_id": "#638",
+    "tw_name": "勾帕路翁",
+    "jp_name": "コバルオン",
+    "en_name": "Cobalion",
+    "types": [
+      "鋼",
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#639",
+    "tw_name": "代拉基翁",
+    "jp_name": "テラキオン",
+    "en_name": "Terrakion",
+    "types": [
+      "岩石",
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#640",
+    "tw_name": "畢力吉翁",
+    "jp_name": "ビリジオン",
+    "en_name": "Virizion",
+    "types": [
+      "草",
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#641",
+    "tw_name": "龍捲雲",
+    "jp_name": "トルネロス",
+    "en_name": "Tornadus",
+    "types": [
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#642",
+    "tw_name": "雷電雲",
+    "jp_name": "ボルトロス",
+    "en_name": "Thundurus",
+    "types": [
+      "電",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#643",
+    "tw_name": "萊希拉姆",
+    "jp_name": "レシラム",
+    "en_name": "Reshiram",
+    "types": [
+      "龍",
+      "火"
+    ]
+  },
+  {
+    "global_id": "#644",
+    "tw_name": "捷克羅姆",
+    "jp_name": "ゼクロム",
+    "en_name": "Zekrom",
+    "types": [
+      "龍",
+      "電"
+    ]
+  },
+  {
+    "global_id": "#645",
+    "tw_name": "土地雲",
+    "jp_name": "ランドロス",
+    "en_name": "Landorus",
+    "types": [
+      "地面",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#646",
+    "tw_name": "酋雷姆",
+    "jp_name": "キュレム",
+    "en_name": "Kyurem",
+    "types": [
+      "龍",
+      "冰"
+    ]
+  },
+  {
+    "global_id": "#647",
+    "tw_name": "凱路迪歐",
+    "jp_name": "ケルディオ",
+    "en_name": "Keldeo",
+    "types": [
+      "水",
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#648",
+    "tw_name": "美洛耶塔",
+    "jp_name": "メロエッタ",
+    "en_name": "Meloetta",
+    "types": [
+      "一般",
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#649",
+    "tw_name": "蓋諾賽克特",
+    "jp_name": "ゲノセクト",
+    "en_name": "Genesect",
+    "types": [
+      "蟲",
+      "鋼"
+    ]
+  },
+  {
+    "global_id": "#650",
+    "tw_name": "哈力栗",
+    "jp_name": "ハリマロン",
+    "en_name": "Chespin",
+    "types": [
+      "草"
+    ]
+  },
+  {
+    "global_id": "#651",
+    "tw_name": "胖胖哈力",
+    "jp_name": "ハリボーグ",
+    "en_name": "Quilladin",
+    "types": [
+      "草"
+    ]
+  },
+  {
+    "global_id": "#652",
+    "tw_name": "布里卡隆",
+    "jp_name": "ブリガロン",
+    "en_name": "Chesnaught",
+    "types": [
+      "草",
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#653",
+    "tw_name": "火狐狸",
+    "jp_name": "フォッコ",
+    "en_name": "Fennekin",
+    "types": [
+      "火"
+    ]
+  },
+  {
+    "global_id": "#654",
+    "tw_name": "長尾火狐",
+    "jp_name": "テールナー",
+    "en_name": "Braixen",
+    "types": [
+      "火"
+    ]
+  },
+  {
+    "global_id": "#655",
+    "tw_name": "妖火紅狐",
+    "jp_name": "マフォクシー",
+    "en_name": "Delphox",
+    "types": [
+      "火",
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#656",
+    "tw_name": "呱呱泡蛙",
+    "jp_name": "ケロマツ",
+    "en_name": "Froakie",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#657",
+    "tw_name": "呱頭蛙",
+    "jp_name": "ゲコガシラ",
+    "en_name": "Frogadier",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#658",
+    "tw_name": "甲賀忍蛙",
+    "jp_name": "ゲッコウガ",
+    "en_name": "Greninja",
+    "types": [
+      "水",
+      "惡"
+    ]
+  },
+  {
+    "global_id": "#659",
+    "tw_name": "掘掘兔",
+    "jp_name": "ホルビー",
+    "en_name": "Bunnelby",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#660",
+    "tw_name": "掘地兔",
+    "jp_name": "ホルード",
+    "en_name": "Diggersby",
+    "types": [
+      "一般",
+      "地面"
+    ]
+  },
+  {
+    "global_id": "#661",
+    "tw_name": "小箭雀",
+    "jp_name": "ヤヤコマ",
+    "en_name": "Fletchling",
+    "types": [
+      "一般",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#662",
+    "tw_name": "火箭雀",
+    "jp_name": "ヒノヤコマ",
+    "en_name": "Fletchinder",
+    "types": [
+      "火",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#663",
+    "tw_name": "烈箭鷹",
+    "jp_name": "ファイアロー",
+    "en_name": "Talonflame",
+    "types": [
+      "火",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#664",
+    "tw_name": "粉蝶蟲",
+    "jp_name": "コフキムシ",
+    "en_name": "Scatterbug",
+    "types": [
+      "蟲"
+    ]
+  },
+  {
+    "global_id": "#665",
+    "tw_name": "粉蝶蛹",
+    "jp_name": "コフーライ",
+    "en_name": "Spewpa",
+    "types": [
+      "蟲"
+    ]
+  },
+  {
+    "global_id": "#666",
+    "tw_name": "彩粉蝶",
+    "jp_name": "ビビヨン",
+    "en_name": "Vivillon",
+    "types": [
+      "蟲",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#667",
+    "tw_name": "小獅獅",
+    "jp_name": "シシコ",
+    "en_name": "Litleo",
+    "types": [
+      "火",
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#668",
+    "tw_name": "火炎獅",
+    "jp_name": "カエンジシ",
+    "en_name": "Pyroar",
+    "types": [
+      "火",
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#669",
+    "tw_name": "花蓓蓓",
+    "jp_name": "フラベベ",
+    "en_name": "Flabébé",
+    "types": [
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#670",
+    "tw_name": "花葉蒂",
+    "jp_name": "フラエッテ",
+    "en_name": "Floette",
+    "types": [
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#671",
+    "tw_name": "花潔夫人",
+    "jp_name": "フラージェス",
+    "en_name": "Florges",
+    "types": [
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#672",
+    "tw_name": "坐騎小羊",
+    "jp_name": "メェークル",
+    "en_name": "Skiddo",
+    "types": [
+      "草"
+    ]
+  },
+  {
+    "global_id": "#673",
+    "tw_name": "坐騎山羊",
+    "jp_name": "ゴーゴート",
+    "en_name": "Gogoat",
+    "types": [
+      "草"
+    ]
+  },
+  {
+    "global_id": "#674",
+    "tw_name": "頑皮熊貓",
+    "jp_name": "ヤンチャム",
+    "en_name": "Pancham",
+    "types": [
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#675",
+    "tw_name": "流氓熊貓",
+    "jp_name": "ゴロンダ",
+    "en_name": "Pangoro",
+    "types": [
+      "格鬥",
+      "惡"
+    ]
+  },
+  {
+    "global_id": "#676",
+    "tw_name": "多麗米亞",
+    "jp_name": "トリミアン",
+    "en_name": "Furfrou",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#677",
+    "tw_name": "妙喵",
+    "jp_name": "ニャスパー",
+    "en_name": "Espurr",
+    "types": [
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#678",
+    "tw_name": "超能妙喵",
+    "jp_name": "ニャオニクス",
+    "en_name": "Meowstic",
+    "types": [
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#679",
+    "tw_name": "獨劍鞘",
+    "jp_name": "ヒトツキ",
+    "en_name": "Honedge",
+    "types": [
+      "鋼",
+      "幽靈"
+    ]
+  },
+  {
+    "global_id": "#680",
+    "tw_name": "雙劍鞘",
+    "jp_name": "ニダンギル",
+    "en_name": "Doublade",
+    "types": [
+      "鋼",
+      "幽靈"
+    ]
+  },
+  {
+    "global_id": "#681",
+    "tw_name": "堅盾劍怪",
+    "jp_name": "ギルガルド",
+    "en_name": "Aegislash",
+    "types": [
+      "鋼",
+      "幽靈"
+    ]
+  },
+  {
+    "global_id": "#682",
+    "tw_name": "粉香香",
+    "jp_name": "シュシュプ",
+    "en_name": "Spritzee",
+    "types": [
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#683",
+    "tw_name": "芳香精",
+    "jp_name": "フレフワン",
+    "en_name": "Aromatisse",
+    "types": [
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#684",
+    "tw_name": "綿綿泡芙",
+    "jp_name": "ペロッパフ",
+    "en_name": "Swirlix",
+    "types": [
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#685",
+    "tw_name": "胖甜妮",
+    "jp_name": "ペロリーム",
+    "en_name": "Slurpuff",
+    "types": [
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#686",
+    "tw_name": "好啦魷",
+    "jp_name": "マーイーカ",
+    "en_name": "Inkay",
+    "types": [
+      "惡",
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#687",
+    "tw_name": "烏賊王",
+    "jp_name": "カラマネロ",
+    "en_name": "Malamar",
+    "types": [
+      "惡",
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#688",
+    "tw_name": "龜腳腳",
+    "jp_name": "カメテテ",
+    "en_name": "Binacle",
+    "types": [
+      "岩石",
+      "水"
+    ]
+  },
+  {
+    "global_id": "#689",
+    "tw_name": "龜足巨鎧",
+    "jp_name": "ガメノデス",
+    "en_name": "Barbaracle",
+    "types": [
+      "岩石",
+      "水"
+    ]
+  },
+  {
+    "global_id": "#690",
+    "tw_name": "垃垃藻",
+    "jp_name": "クズモー",
+    "en_name": "Skrelp",
+    "types": [
+      "毒",
+      "水"
+    ]
+  },
+  {
+    "global_id": "#691",
+    "tw_name": "毒藻龍",
+    "jp_name": "ドラミドロ",
+    "en_name": "Dragalge",
+    "types": [
+      "毒",
+      "龍"
+    ]
+  },
+  {
+    "global_id": "#692",
+    "tw_name": "鐵臂槍蝦",
+    "jp_name": "ウデッポウ",
+    "en_name": "Clauncher",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#693",
+    "tw_name": "鋼炮臂蝦",
+    "jp_name": "ブロスター",
+    "en_name": "Clawitzer",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#694",
+    "tw_name": "傘電蜥",
+    "jp_name": "エリキテル",
+    "en_name": "Helioptile",
+    "types": [
+      "電",
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#695",
+    "tw_name": "光電傘蜥",
+    "jp_name": "エレザード",
+    "en_name": "Heliolisk",
+    "types": [
+      "電",
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#696",
+    "tw_name": "寶寶暴龍",
+    "jp_name": "チゴラス",
+    "en_name": "Tyrunt",
+    "types": [
+      "岩石",
+      "龍"
+    ]
+  },
+  {
+    "global_id": "#697",
+    "tw_name": "怪顎龍",
+    "jp_name": "ガチゴラス",
+    "en_name": "Tyrantrum",
+    "types": [
+      "岩石",
+      "龍"
+    ]
+  },
+  {
+    "global_id": "#698",
+    "tw_name": "冰雪龍",
+    "jp_name": "アマルス",
+    "en_name": "Amaura",
+    "types": [
+      "岩石",
+      "冰"
+    ]
+  },
+  {
+    "global_id": "#699",
+    "tw_name": "冰雪巨龍",
+    "jp_name": "アマルルガ",
+    "en_name": "Aurorus",
+    "types": [
+      "岩石",
+      "冰"
+    ]
+  },
+  {
+    "global_id": "#700",
+    "tw_name": "仙子伊布",
+    "jp_name": "ニンフィア",
+    "en_name": "Sylveon",
+    "types": [
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#701",
+    "tw_name": "摔角鷹人",
+    "jp_name": "ルチャブル",
+    "en_name": "Hawlucha",
+    "types": [
+      "格鬥",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#702",
+    "tw_name": "咚咚鼠",
+    "jp_name": "デデンネ",
+    "en_name": "Dedenne",
+    "types": [
+      "電",
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#703",
+    "tw_name": "小碎鑽",
+    "jp_name": "メレシー",
+    "en_name": "Carbink",
+    "types": [
+      "岩石",
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#704",
+    "tw_name": "黏黏寶",
+    "jp_name": "ヌメラ",
+    "en_name": "Goomy",
+    "types": [
+      "龍"
+    ]
+  },
+  {
+    "global_id": "#705",
+    "tw_name": "黏美兒",
+    "jp_name": "ヌメイル",
+    "en_name": "Sliggoo",
+    "types": [
+      "龍"
+    ]
+  },
+  {
+    "global_id": "#706",
+    "tw_name": "黏美龍",
+    "jp_name": "ヌメルゴン",
+    "en_name": "Goodra",
+    "types": [
+      "龍"
+    ]
+  },
+  {
+    "global_id": "#707",
+    "tw_name": "鑰圈兒",
+    "jp_name": "クレッフィ",
+    "en_name": "Klefki",
+    "types": [
+      "鋼",
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#708",
+    "tw_name": "小木靈",
+    "jp_name": "ボクレー",
+    "en_name": "Phantump",
+    "types": [
+      "幽靈",
+      "草"
+    ]
+  },
+  {
+    "global_id": "#709",
+    "tw_name": "朽木妖",
+    "jp_name": "オーロット",
+    "en_name": "Trevenant",
+    "types": [
+      "幽靈",
+      "草"
+    ]
+  },
+  {
+    "global_id": "#710",
+    "tw_name": "南瓜精",
+    "jp_name": "バケッチャ",
+    "en_name": "Pumpkaboo",
+    "types": [
+      "幽靈",
+      "草"
+    ]
+  },
+  {
+    "global_id": "#711",
+    "tw_name": "南瓜怪人",
+    "jp_name": "パンプジン",
+    "en_name": "Gourgeist",
+    "types": [
+      "幽靈",
+      "草"
+    ]
+  },
+  {
+    "global_id": "#712",
+    "tw_name": "冰寶",
+    "jp_name": "カチコール",
+    "en_name": "Bergmite",
+    "types": [
+      "冰"
+    ]
+  },
+  {
+    "global_id": "#713",
+    "tw_name": "冰岩怪",
+    "jp_name": "クレベース",
+    "en_name": "Avalugg",
+    "types": [
+      "冰"
+    ]
+  },
+  {
+    "global_id": "#714",
+    "tw_name": "嗡蝠",
+    "jp_name": "オンバット",
+    "en_name": "Noibat",
+    "types": [
+      "飛行",
+      "龍"
+    ]
+  },
+  {
+    "global_id": "#715",
+    "tw_name": "音波龍",
+    "jp_name": "オンバーン",
+    "en_name": "Noivern",
+    "types": [
+      "飛行",
+      "龍"
+    ]
+  },
+  {
+    "global_id": "#716",
+    "tw_name": "哲爾尼亞斯",
+    "jp_name": "ゼルネアス",
+    "en_name": "Xerneas",
+    "types": [
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#717",
+    "tw_name": "伊裴爾塔爾",
+    "jp_name": "イベルタル",
+    "en_name": "Yveltal",
+    "types": [
+      "惡",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#718",
+    "tw_name": "基格爾德",
+    "jp_name": "ジガルデ",
+    "en_name": "Zygarde",
+    "types": [
+      "龍",
+      "地面"
+    ]
+  },
+  {
+    "global_id": "#719",
+    "tw_name": "蒂安希",
+    "jp_name": "ディアンシー",
+    "en_name": "Diancie",
+    "types": [
+      "岩石",
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#720",
+    "tw_name": "胡帕",
+    "jp_name": "フーパ",
+    "en_name": "Hoopa",
+    "types": [
+      "超能力",
+      "幽靈"
+    ]
+  },
+  {
+    "global_id": "#721",
+    "tw_name": "波爾凱尼恩",
+    "jp_name": "ボルケニオン‎",
+    "en_name": "Volcanion",
+    "types": [
+      "火",
+      "水"
+    ]
+  },
+  {
+    "global_id": "#722",
+    "tw_name": "木木梟",
+    "jp_name": "モクロー",
+    "en_name": "Rowlet",
+    "types": [
+      "草",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#723",
+    "tw_name": "投羽梟",
+    "jp_name": "フクスロー",
+    "en_name": "Dartrix",
+    "types": [
+      "草",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#724",
+    "tw_name": "狙射樹梟",
+    "jp_name": "ジュナイパー",
+    "en_name": "Decidueye",
+    "types": [
+      "草",
+      "幽靈"
+    ]
+  },
+  {
+    "global_id": "#725",
+    "tw_name": "火斑喵",
+    "jp_name": "ニャビー",
+    "en_name": "Litten",
+    "types": [
+      "火"
+    ]
+  },
+  {
+    "global_id": "#726",
+    "tw_name": "炎熱喵",
+    "jp_name": "ニャヒート",
+    "en_name": "Torracat",
+    "types": [
+      "火"
+    ]
+  },
+  {
+    "global_id": "#727",
+    "tw_name": "熾焰咆哮虎",
+    "jp_name": "ガオガエン",
+    "en_name": "Incineroar",
+    "types": [
+      "火",
+      "惡"
+    ]
+  },
+  {
+    "global_id": "#728",
+    "tw_name": "球球海獅",
+    "jp_name": "アシマリ",
+    "en_name": "Popplio",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#729",
+    "tw_name": "花漾海獅",
+    "jp_name": "オシャマリ",
+    "en_name": "Brionne",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#730",
+    "tw_name": "西獅海壬",
+    "jp_name": "アシレーヌ",
+    "en_name": "Primarina",
+    "types": [
+      "水",
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#731",
+    "tw_name": "小篤兒",
+    "jp_name": "ツツケラ",
+    "en_name": "Pikipek",
+    "types": [
+      "一般",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#732",
+    "tw_name": "喇叭啄鳥",
+    "jp_name": "ケララッパ",
+    "en_name": "Trumbeak",
+    "types": [
+      "一般",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#733",
+    "tw_name": "銃嘴大鳥",
+    "jp_name": "ドデカバシ",
+    "en_name": "Toucannon",
+    "types": [
+      "一般",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#734",
+    "tw_name": "貓鼬少",
+    "jp_name": "ヤングース",
+    "en_name": "Yungoos",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#735",
+    "tw_name": "貓鼬探長",
+    "jp_name": "デカグース",
+    "en_name": "Gumshoos",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#736",
+    "tw_name": "強顎雞母蟲",
+    "jp_name": "アゴジムシ",
+    "en_name": "Grubbin",
+    "types": [
+      "蟲"
+    ]
+  },
+  {
+    "global_id": "#737",
+    "tw_name": "蟲電寶",
+    "jp_name": "デンヂムシ",
+    "en_name": "Charjabug",
+    "types": [
+      "蟲",
+      "電"
+    ]
+  },
+  {
+    "global_id": "#738",
+    "tw_name": "鍬農炮蟲",
+    "jp_name": "クワガノン",
+    "en_name": "Vikavolt",
+    "types": [
+      "蟲",
+      "電"
+    ]
+  },
+  {
+    "global_id": "#739",
+    "tw_name": "好勝蟹",
+    "jp_name": "マケンカニ",
+    "en_name": "Crabrawler",
+    "types": [
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#740",
+    "tw_name": "好勝毛蟹",
+    "jp_name": "ケケンカニ",
+    "en_name": "Crabominable",
+    "types": [
+      "格鬥",
+      "冰"
+    ]
+  },
+  {
+    "global_id": "#741",
+    "tw_name": "花舞鳥",
+    "jp_name": "オドリドリ",
+    "en_name": "Oricorio",
+    "types": [
+      "火",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#742",
+    "tw_name": "萌虻",
+    "jp_name": "アブリー",
+    "en_name": "Cutiefly",
+    "types": [
+      "蟲",
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#743",
+    "tw_name": "蝶結萌虻",
+    "jp_name": "アブリボン",
+    "en_name": "Ribombee",
+    "types": [
+      "蟲",
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#744",
+    "tw_name": "岩狗狗",
+    "jp_name": "イワンコ",
+    "en_name": "Rockruff",
+    "types": [
+      "岩石"
+    ]
+  },
+  {
+    "global_id": "#745",
+    "tw_name": "鬃岩狼人",
+    "jp_name": "ルガルガン",
+    "en_name": "Lycanroc",
+    "types": [
+      "岩石"
+    ]
+  },
+  {
+    "global_id": "#746",
+    "tw_name": "弱丁魚",
+    "jp_name": "ヨワシ",
+    "en_name": "Wishiwashi",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#747",
+    "tw_name": "好壞星",
+    "jp_name": "ヒドイデ",
+    "en_name": "Mareanie",
+    "types": [
+      "毒",
+      "水"
+    ]
+  },
+  {
+    "global_id": "#748",
+    "tw_name": "超壞星",
+    "jp_name": "ドヒドイデ",
+    "en_name": "Toxapex",
+    "types": [
+      "毒",
+      "水"
+    ]
+  },
+  {
+    "global_id": "#749",
+    "tw_name": "泥驢仔",
+    "jp_name": "ドロバンコ",
+    "en_name": "Mudbray",
+    "types": [
+      "地面"
+    ]
+  },
+  {
+    "global_id": "#750",
+    "tw_name": "重泥輓馬",
+    "jp_name": "バンバドロ",
+    "en_name": "Mudsdale",
+    "types": [
+      "地面"
+    ]
+  },
+  {
+    "global_id": "#751",
+    "tw_name": "滴蛛",
+    "jp_name": "シズクモ",
+    "en_name": "Dewpider",
+    "types": [
+      "水",
+      "蟲"
+    ]
+  },
+  {
+    "global_id": "#752",
+    "tw_name": "滴蛛霸",
+    "jp_name": "オニシズクモ",
+    "en_name": "Araquanid",
+    "types": [
+      "水",
+      "蟲"
+    ]
+  },
+  {
+    "global_id": "#753",
+    "tw_name": "偽螳草",
+    "jp_name": "カリキリ",
+    "en_name": "Fomantis",
+    "types": [
+      "草"
+    ]
+  },
+  {
+    "global_id": "#754",
+    "tw_name": "蘭螳花",
+    "jp_name": "ラランテス",
+    "en_name": "Lurantis",
+    "types": [
+      "草"
+    ]
+  },
+  {
+    "global_id": "#755",
+    "tw_name": "睡睡菇",
+    "jp_name": "ネマシュ",
+    "en_name": "Morelull",
+    "types": [
+      "草",
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#756",
+    "tw_name": "燈罩夜菇",
+    "jp_name": "マシェード",
+    "en_name": "Shiinotic",
+    "types": [
+      "草",
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#757",
+    "tw_name": "夜盜火蜥",
+    "jp_name": "ヤトウモリ",
+    "en_name": "Salandit",
+    "types": [
+      "毒",
+      "火"
+    ]
+  },
+  {
+    "global_id": "#758",
+    "tw_name": "焰后蜥",
+    "jp_name": "エンニュート",
+    "en_name": "Salazzle",
+    "types": [
+      "毒",
+      "火"
+    ]
+  },
+  {
+    "global_id": "#759",
+    "tw_name": "童偶熊",
+    "jp_name": "ヌイコグマ",
+    "en_name": "Stufful",
+    "types": [
+      "一般",
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#760",
+    "tw_name": "穿著熊",
+    "jp_name": "キテルグマ",
+    "en_name": "Bewear",
+    "types": [
+      "一般",
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#761",
+    "tw_name": "甜竹竹",
+    "jp_name": "アマカジ",
+    "en_name": "Bounsweet",
+    "types": [
+      "草"
+    ]
+  },
+  {
+    "global_id": "#762",
+    "tw_name": "甜舞妮",
+    "jp_name": "アママイコ",
+    "en_name": "Steenee",
+    "types": [
+      "草"
+    ]
+  },
+  {
+    "global_id": "#763",
+    "tw_name": "甜冷美后",
+    "jp_name": "アマージョ",
+    "en_name": "Tsareena",
+    "types": [
+      "草"
+    ]
+  },
+  {
+    "global_id": "#764",
+    "tw_name": "花療環環",
+    "jp_name": "キュワワー",
+    "en_name": "Comfey",
+    "types": [
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#765",
+    "tw_name": "智揮猩",
+    "jp_name": "ヤレユータン",
+    "en_name": "Oranguru",
+    "types": [
+      "一般",
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#766",
+    "tw_name": "投擲猴",
+    "jp_name": "ナゲツケサル",
+    "en_name": "Passimian",
+    "types": [
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#767",
+    "tw_name": "膽小蟲",
+    "jp_name": "コソクムシ",
+    "en_name": "Wimpod",
+    "types": [
+      "蟲",
+      "水"
+    ]
+  },
+  {
+    "global_id": "#768",
+    "tw_name": "具甲武者",
+    "jp_name": "グソクムシャ",
+    "en_name": "Golisopod",
+    "types": [
+      "蟲",
+      "水"
+    ]
+  },
+  {
+    "global_id": "#769",
+    "tw_name": "沙丘娃",
+    "jp_name": "スナバァ",
+    "en_name": "Sandygast",
+    "types": [
+      "幽靈",
+      "地面"
+    ]
+  },
+  {
+    "global_id": "#770",
+    "tw_name": "噬沙堡爺",
+    "jp_name": "シロデスナ",
+    "en_name": "Palossand",
+    "types": [
+      "幽靈",
+      "地面"
+    ]
+  },
+  {
+    "global_id": "#771",
+    "tw_name": "拳海參",
+    "jp_name": "ナマコブシ",
+    "en_name": "Pyukumuku",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#772",
+    "tw_name": "屬性：空",
+    "jp_name": "タイプ：ヌル",
+    "en_name": "Type: Null",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#773",
+    "tw_name": "銀伴戰獸",
+    "jp_name": "シルヴァディ",
+    "en_name": "Silvally",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#774",
+    "tw_name": "小隕星",
+    "jp_name": "メテノ",
+    "en_name": "Minior",
+    "types": [
+      "岩石",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#775",
+    "tw_name": "樹枕尾熊",
+    "jp_name": "ネッコアラ",
+    "en_name": "Komala",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#776",
+    "tw_name": "爆焰龜獸",
+    "jp_name": "バクガメス",
+    "en_name": "Turtonator",
+    "types": [
+      "火",
+      "龍"
+    ]
+  },
+  {
+    "global_id": "#777",
+    "tw_name": "托戈德瑪爾",
+    "jp_name": "トゲデマル",
+    "en_name": "Togedemaru",
+    "types": [
+      "電",
+      "鋼"
+    ]
+  },
+  {
+    "global_id": "#778",
+    "tw_name": "謎擬Ｑ",
+    "jp_name": "ミミッキュ",
+    "en_name": "Mimikyu",
+    "types": [
+      "幽靈",
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#779",
+    "tw_name": "磨牙彩皮魚",
+    "jp_name": "ハギギシリ",
+    "en_name": "Bruxish",
+    "types": [
+      "水",
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#780",
+    "tw_name": "老翁龍",
+    "jp_name": "ジジーロン",
+    "en_name": "Drampa",
+    "types": [
+      "一般",
+      "龍"
+    ]
+  },
+  {
+    "global_id": "#781",
+    "tw_name": "破破舵輪",
+    "jp_name": "ダダリン",
+    "en_name": "Dhelmise",
+    "types": [
+      "幽靈",
+      "草"
+    ]
+  },
+  {
+    "global_id": "#782",
+    "tw_name": "心鱗寶",
+    "jp_name": "ジャラコ",
+    "en_name": "Jangmo-o",
+    "types": [
+      "龍"
+    ]
+  },
+  {
+    "global_id": "#783",
+    "tw_name": "鱗甲龍",
+    "jp_name": "ジャランゴ",
+    "en_name": "Hakamo-o",
+    "types": [
+      "龍",
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#784",
+    "tw_name": "杖尾鱗甲龍",
+    "jp_name": "ジャラランガ",
+    "en_name": "Kommo-o",
+    "types": [
+      "龍",
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#785",
+    "tw_name": "卡璞・鳴鳴",
+    "jp_name": "カプ・コケコ",
+    "en_name": "Tapu Koko",
+    "types": [
+      "電",
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#786",
+    "tw_name": "卡璞・蝶蝶",
+    "jp_name": "カプ・テテフ",
+    "en_name": "Tapu Lele",
+    "types": [
+      "超能力",
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#787",
+    "tw_name": "卡璞・哞哞",
+    "jp_name": "カプ・ブルル",
+    "en_name": "Tapu Bulu",
+    "types": [
+      "草",
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#788",
+    "tw_name": "卡璞・鰭鰭",
+    "jp_name": "カプ・レヒレ",
+    "en_name": "Tapu Fini",
+    "types": [
+      "水",
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#789",
+    "tw_name": "科斯莫古",
+    "jp_name": "コスモッグ",
+    "en_name": "Cosmog",
+    "types": [
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#790",
+    "tw_name": "科斯莫姆",
+    "jp_name": "コスモウム",
+    "en_name": "Cosmoem",
+    "types": [
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#791",
+    "tw_name": "索爾迦雷歐",
+    "jp_name": "ソルガレオ",
+    "en_name": "Solgaleo",
+    "types": [
+      "超能力",
+      "鋼"
+    ]
+  },
+  {
+    "global_id": "#792",
+    "tw_name": "露奈雅拉",
+    "jp_name": "ルナアーラ",
+    "en_name": "Lunala",
+    "types": [
+      "超能力",
+      "幽靈"
+    ]
+  },
+  {
+    "global_id": "#793",
+    "tw_name": "虛吾伊德",
+    "jp_name": "ウツロイド",
+    "en_name": "Nihilego",
+    "types": [
+      "岩石",
+      "毒"
+    ]
+  },
+  {
+    "global_id": "#794",
+    "tw_name": "爆肌蚊",
+    "jp_name": "マッシブーン",
+    "en_name": "Buzzwole",
+    "types": [
+      "蟲",
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#795",
+    "tw_name": "費洛美螂",
+    "jp_name": "フェローチェ",
+    "en_name": "Pheromosa",
+    "types": [
+      "蟲",
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#796",
+    "tw_name": "電束木",
+    "jp_name": "デンジュモク",
+    "en_name": "Xurkitree",
+    "types": [
+      "電"
+    ]
+  },
+  {
+    "global_id": "#797",
+    "tw_name": "鐵火輝夜",
+    "jp_name": "テッカグヤ",
+    "en_name": "Celesteela",
+    "types": [
+      "鋼",
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#798",
+    "tw_name": "紙御劍",
+    "jp_name": "カミツルギ",
+    "en_name": "Kartana",
+    "types": [
+      "草",
+      "鋼"
+    ]
+  },
+  {
+    "global_id": "#799",
+    "tw_name": "惡食大王",
+    "jp_name": "アクジキング",
+    "en_name": "Guzzlord",
+    "types": [
+      "惡",
+      "龍"
+    ]
+  },
+  {
+    "global_id": "#800",
+    "tw_name": "奈克洛茲瑪",
+    "jp_name": "ネクロズマ",
+    "en_name": "Necrozma",
+    "types": [
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#801",
+    "tw_name": "瑪機雅娜",
+    "jp_name": "マギアナ",
+    "en_name": "Magearna",
+    "types": [
+      "鋼",
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#802",
+    "tw_name": "瑪夏多",
+    "jp_name": "マーシャドー",
+    "en_name": "Marshadow",
+    "types": [
+      "格鬥",
+      "幽靈"
+    ]
+  },
+  {
+    "global_id": "#803",
+    "tw_name": "毒貝比",
+    "jp_name": "ベベノム",
+    "en_name": "Poipole",
+    "types": [
+      "毒"
+    ]
+  },
+  {
+    "global_id": "#804",
+    "tw_name": "四顎針龍",
+    "jp_name": "アーゴヨン",
+    "en_name": "Naganadel",
+    "types": [
+      "毒",
+      "龍"
+    ]
+  },
+  {
+    "global_id": "#805",
+    "tw_name": "壘磊石",
+    "jp_name": "ツンデツンデ",
+    "en_name": "Stakataka",
+    "types": [
+      "岩石",
+      "鋼"
+    ]
+  },
+  {
+    "global_id": "#806",
+    "tw_name": "砰頭小丑",
+    "jp_name": "ズガドーン",
+    "en_name": "Blacephalon",
+    "types": [
+      "火",
+      "幽靈"
+    ]
+  },
+  {
+    "global_id": "#807",
+    "tw_name": "捷拉奧拉",
+    "jp_name": "ゼラオラ",
+    "en_name": "Zeraora",
+    "types": [
+      "電"
+    ]
+  },
+  {
+    "global_id": "#808",
+    "tw_name": "美錄坦",
+    "jp_name": "メルタン",
+    "en_name": "Meltan",
+    "types": [
+      "鋼"
+    ]
+  },
+  {
+    "global_id": "#809",
+    "tw_name": "美錄梅塔",
+    "jp_name": "メルメタル",
+    "en_name": "Melmetal",
+    "types": [
+      "鋼"
+    ]
+  },
+  {
+    "global_id": "#810",
+    "tw_name": "敲音猴",
+    "jp_name": "サルノリ",
+    "en_name": "Grookey",
+    "types": [
+      "草"
+    ]
+  },
+  {
+    "global_id": "#811",
+    "tw_name": "啪咚猴",
+    "jp_name": "バチンキー",
+    "en_name": "Thwackey",
+    "types": [
+      "草"
+    ]
+  },
+  {
+    "global_id": "#812",
+    "tw_name": "轟擂金剛猩",
+    "jp_name": "ゴリランダー",
+    "en_name": "Rillaboom",
+    "types": [
+      "草"
+    ]
+  },
+  {
+    "global_id": "#813",
+    "tw_name": "炎兔兒",
+    "jp_name": "ヒバニー",
+    "en_name": "Scorbunny",
+    "types": [
+      "火"
+    ]
+  },
+  {
+    "global_id": "#814",
+    "tw_name": "騰蹴小將",
+    "jp_name": "ラビフット",
+    "en_name": "Raboot",
+    "types": [
+      "火"
+    ]
+  },
+  {
+    "global_id": "#815",
+    "tw_name": "閃焰王牌",
+    "jp_name": "エースバーン",
+    "en_name": "Cinderace",
+    "types": [
+      "火"
+    ]
+  },
+  {
+    "global_id": "#816",
+    "tw_name": "淚眼蜥",
+    "jp_name": "メッソン",
+    "en_name": "Sobble",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#817",
+    "tw_name": "變澀蜥",
+    "jp_name": "ジメレオン",
+    "en_name": "Drizzile",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#818",
+    "tw_name": "千面避役",
+    "jp_name": "インテレオン",
+    "en_name": "Inteleon",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#819",
+    "tw_name": "貪心栗鼠",
+    "jp_name": "ホシガリス",
+    "en_name": "Skwovet",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#820",
+    "tw_name": "藏飽栗鼠",
+    "jp_name": "ヨクバリス",
+    "en_name": "Greedent",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#821",
+    "tw_name": "稚山雀",
+    "jp_name": "ココガラ",
+    "en_name": "Rookidee",
+    "types": [
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#822",
+    "tw_name": "藍鴉",
+    "jp_name": "アオガラス",
+    "en_name": "Corvisquire",
+    "types": [
+      "飛行"
+    ]
+  },
+  {
+    "global_id": "#823",
+    "tw_name": "鋼鎧鴉",
+    "jp_name": "アーマーガア",
+    "en_name": "Corviknight",
+    "types": [
+      "飛行",
+      "鋼"
+    ]
+  },
+  {
+    "global_id": "#824",
+    "tw_name": "索偵蟲",
+    "jp_name": "サッチムシ",
+    "en_name": "Blipbug",
+    "types": [
+      "蟲"
+    ]
+  },
+  {
+    "global_id": "#825",
+    "tw_name": "天罩蟲",
+    "jp_name": "レドームシ",
+    "en_name": "Dottler",
+    "types": [
+      "蟲",
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#826",
+    "tw_name": "以歐路普",
+    "jp_name": "イオルブ",
+    "en_name": "Orbeetle",
+    "types": [
+      "蟲",
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#827",
+    "tw_name": "偷兒狐",
+    "jp_name": "クスネ",
+    "en_name": "Nickit",
+    "types": [
+      "惡"
+    ]
+  },
+  {
+    "global_id": "#828",
+    "tw_name": "狐大盜",
+    "jp_name": "フォクスライ",
+    "en_name": "Thievul",
+    "types": [
+      "惡"
+    ]
+  },
+  {
+    "global_id": "#829",
+    "tw_name": "幼棉棉",
+    "jp_name": "ヒメンカ",
+    "en_name": "Gossifleur",
+    "types": [
+      "草"
+    ]
+  },
+  {
+    "global_id": "#830",
+    "tw_name": "白蓬蓬",
+    "jp_name": "ワタシラガ",
+    "en_name": "Eldegoss",
+    "types": [
+      "草"
+    ]
+  },
+  {
+    "global_id": "#831",
+    "tw_name": "毛辮羊",
+    "jp_name": "ウールー",
+    "en_name": "Wooloo",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#832",
+    "tw_name": "毛毛角羊",
+    "jp_name": "バイウールー",
+    "en_name": "Dubwool",
+    "types": [
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#833",
+    "tw_name": "咬咬龜",
+    "jp_name": "カムカメ",
+    "en_name": "Chewtle",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#834",
+    "tw_name": "暴噬龜",
+    "jp_name": "カジリガメ",
+    "en_name": "Drednaw",
+    "types": [
+      "水",
+      "岩石"
+    ]
+  },
+  {
+    "global_id": "#835",
+    "tw_name": "來電汪",
+    "jp_name": "ワンパチ",
+    "en_name": "Yamper",
+    "types": [
+      "電"
+    ]
+  },
+  {
+    "global_id": "#836",
+    "tw_name": "逐電犬",
+    "jp_name": "パルスワン",
+    "en_name": "Boltund",
+    "types": [
+      "電"
+    ]
+  },
+  {
+    "global_id": "#837",
+    "tw_name": "小炭仔",
+    "jp_name": "タンドン",
+    "en_name": "Rolycoly",
+    "types": [
+      "岩石"
+    ]
+  },
+  {
+    "global_id": "#838",
+    "tw_name": "大炭車",
+    "jp_name": "トロッゴン",
+    "en_name": "Carkol",
+    "types": [
+      "岩石",
+      "火"
+    ]
+  },
+  {
+    "global_id": "#839",
+    "tw_name": "巨炭山",
+    "jp_name": "セキタンザン",
+    "en_name": "Coalossal",
+    "types": [
+      "岩石",
+      "火"
+    ]
+  },
+  {
+    "global_id": "#840",
+    "tw_name": "啃果蟲",
+    "jp_name": "カジッチュ",
+    "en_name": "Applin",
+    "types": [
+      "草",
+      "龍"
+    ]
+  },
+  {
+    "global_id": "#841",
+    "tw_name": "蘋裹龍",
+    "jp_name": "アップリュー",
+    "en_name": "Flapple",
+    "types": [
+      "草",
+      "龍"
+    ]
+  },
+  {
+    "global_id": "#842",
+    "tw_name": "豐蜜龍",
+    "jp_name": "タルップル",
+    "en_name": "Appletun",
+    "types": [
+      "草",
+      "龍"
+    ]
+  },
+  {
+    "global_id": "#843",
+    "tw_name": "沙包蛇",
+    "jp_name": "スナヘビ",
+    "en_name": "Silicobra",
+    "types": [
+      "地面"
+    ]
+  },
+  {
+    "global_id": "#844",
+    "tw_name": "沙螺蟒",
+    "jp_name": "サダイジャ",
+    "en_name": "Sandaconda",
+    "types": [
+      "地面"
+    ]
+  },
+  {
+    "global_id": "#845",
+    "tw_name": "古月鳥",
+    "jp_name": "ウッウ",
+    "en_name": "Cramorant",
+    "types": [
+      "飛行",
+      "水"
+    ]
+  },
+  {
+    "global_id": "#846",
+    "tw_name": "刺梭魚",
+    "jp_name": "サシカマス",
+    "en_name": "Arrokuda",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#847",
+    "tw_name": "戽斗尖梭",
+    "jp_name": "カマスジョー",
+    "en_name": "Barraskewda",
+    "types": [
+      "水"
+    ]
+  },
+  {
+    "global_id": "#848",
+    "tw_name": "毒電嬰",
+    "jp_name": "エレズン",
+    "en_name": "Toxel",
+    "types": [
+      "電",
+      "毒"
+    ]
+  },
+  {
+    "global_id": "#849",
+    "tw_name": "顫弦蠑螈",
+    "jp_name": "ストリンダー",
+    "en_name": "Toxtricity",
+    "types": [
+      "電",
+      "毒"
+    ]
+  },
+  {
+    "global_id": "#850",
+    "tw_name": "燒火蚣",
+    "jp_name": "ヤクデ",
+    "en_name": "Sizzlipede",
+    "types": [
+      "火",
+      "蟲"
+    ]
+  },
+  {
+    "global_id": "#851",
+    "tw_name": "焚焰蚣",
+    "jp_name": "マルヤクデ",
+    "en_name": "Centiskorch",
+    "types": [
+      "火",
+      "蟲"
+    ]
+  },
+  {
+    "global_id": "#852",
+    "tw_name": "拳拳蛸",
+    "jp_name": "タタッコ",
+    "en_name": "Clobbopus",
+    "types": [
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#853",
+    "tw_name": "八爪武師",
+    "jp_name": "オトスパス",
+    "en_name": "Grapploct",
+    "types": [
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#854",
+    "tw_name": "來悲茶",
+    "jp_name": "ヤバチャ",
+    "en_name": "Sinistea",
+    "types": [
+      "幽靈"
+    ]
+  },
+  {
+    "global_id": "#855",
+    "tw_name": "怖思壺",
+    "jp_name": "ポットデス",
+    "en_name": "Polteageist",
+    "types": [
+      "幽靈"
+    ]
+  },
+  {
+    "global_id": "#856",
+    "tw_name": "迷布莉姆",
+    "jp_name": "ミブリム",
+    "en_name": "Hatenna",
+    "types": [
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#857",
+    "tw_name": "提布莉姆",
+    "jp_name": "テブリム",
+    "en_name": "Hattrem",
+    "types": [
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#858",
+    "tw_name": "布莉姆溫",
+    "jp_name": "ブリムオン",
+    "en_name": "Hatterene",
+    "types": [
+      "超能力",
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#859",
+    "tw_name": "搗蛋小妖",
+    "jp_name": "ベロバー",
+    "en_name": "Impidimp",
+    "types": [
+      "惡",
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#860",
+    "tw_name": "詐唬魔",
+    "jp_name": "ギモー",
+    "en_name": "Morgrem",
+    "types": [
+      "惡",
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#861",
+    "tw_name": "長毛巨魔",
+    "jp_name": "オーロンゲ",
+    "en_name": "Grimmsnarl",
+    "types": [
+      "惡",
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#862",
+    "tw_name": "堵攔熊",
+    "jp_name": "タチフサグマ",
+    "en_name": "Obstagoon",
+    "types": [
+      "惡",
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#863",
+    "tw_name": "喵頭目",
+    "jp_name": "ニャイキング",
+    "en_name": "Perrserker",
+    "types": [
+      "鋼"
+    ]
+  },
+  {
+    "global_id": "#864",
+    "tw_name": "魔靈珊瑚",
+    "jp_name": "サニゴーン",
+    "en_name": "Cursola",
+    "types": [
+      "幽靈"
+    ]
+  },
+  {
+    "global_id": "#865",
+    "tw_name": "蔥遊兵",
+    "jp_name": "ネギガナイト",
+    "en_name": "Sirfetch'd",
+    "types": [
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#866",
+    "tw_name": "踏冰人偶",
+    "jp_name": "バリコオル",
+    "en_name": "Mr. Rime",
+    "types": [
+      "冰",
+      "超能力"
+    ]
+  },
+  {
+    "global_id": "#867",
+    "tw_name": "死神板",
+    "jp_name": "デスバーン",
+    "en_name": "Runerigus",
+    "types": [
+      "地面",
+      "幽靈"
+    ]
+  },
+  {
+    "global_id": "#868",
+    "tw_name": "小仙奶",
+    "jp_name": "マホミル",
+    "en_name": "Milcery",
+    "types": [
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#869",
+    "tw_name": "霜奶仙",
+    "jp_name": "マホイップ",
+    "en_name": "Alcremie",
+    "types": [
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#870",
+    "tw_name": "列陣兵",
+    "jp_name": "タイレーツ",
+    "en_name": "Falinks",
+    "types": [
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#871",
+    "tw_name": "啪嚓海膽",
+    "jp_name": "バチンウニ",
+    "en_name": "Pincurchin",
+    "types": [
+      "電"
+    ]
+  },
+  {
+    "global_id": "#872",
+    "tw_name": "雪吞蟲",
+    "jp_name": "ユキハミ",
+    "en_name": "Snom",
+    "types": [
+      "冰",
+      "蟲"
+    ]
+  },
+  {
+    "global_id": "#873",
+    "tw_name": "雪絨蛾",
+    "jp_name": "モスノウ",
+    "en_name": "Frosmoth",
+    "types": [
+      "冰",
+      "蟲"
+    ]
+  },
+  {
+    "global_id": "#874",
+    "tw_name": "巨石丁",
+    "jp_name": "イシヘンジン",
+    "en_name": "Stonjourner",
+    "types": [
+      "岩石"
+    ]
+  },
+  {
+    "global_id": "#875",
+    "tw_name": "冰砌鵝",
+    "jp_name": "コオリッポ",
+    "en_name": "Eiscue",
+    "types": [
+      "冰"
+    ]
+  },
+  {
+    "global_id": "#876",
+    "tw_name": "愛管侍",
+    "jp_name": "イエッサン",
+    "en_name": "Indeedee",
+    "types": [
+      "超能力",
+      "一般"
+    ]
+  },
+  {
+    "global_id": "#877",
+    "tw_name": "莫魯貝可",
+    "jp_name": "モルペコ",
+    "en_name": "Morpeko",
+    "types": [
+      "電",
+      "惡"
+    ]
+  },
+  {
+    "global_id": "#878",
+    "tw_name": "銅象",
+    "jp_name": "ゾウドウ",
+    "en_name": "Cufant",
+    "types": [
+      "鋼"
+    ]
+  },
+  {
+    "global_id": "#879",
+    "tw_name": "大王銅象",
+    "jp_name": "ダイオウドウ",
+    "en_name": "Copperajah",
+    "types": [
+      "鋼"
+    ]
+  },
+  {
+    "global_id": "#880",
+    "tw_name": "雷鳥龍",
+    "jp_name": "パッチラゴン",
+    "en_name": "Dracozolt",
+    "types": [
+      "電",
+      "龍"
+    ]
+  },
+  {
+    "global_id": "#881",
+    "tw_name": "雷鳥海獸",
+    "jp_name": "パッチルドン",
+    "en_name": "Arctozolt",
+    "types": [
+      "電",
+      "冰"
+    ]
+  },
+  {
+    "global_id": "#882",
+    "tw_name": "鰓魚龍",
+    "jp_name": "ウオノラゴン",
+    "en_name": "Dracovish",
+    "types": [
+      "水",
+      "龍"
+    ]
+  },
+  {
+    "global_id": "#883",
+    "tw_name": "鰓魚海獸",
+    "jp_name": "ウオチルドン",
+    "en_name": "Arctovish",
+    "types": [
+      "水",
+      "冰"
+    ]
+  },
+  {
+    "global_id": "#884",
+    "tw_name": "鋁鋼龍",
+    "jp_name": "ジュラルドン",
+    "en_name": "Duraludon",
+    "types": [
+      "鋼",
+      "龍"
+    ]
+  },
+  {
+    "global_id": "#885",
+    "tw_name": "多龍梅西亞",
+    "jp_name": "ドラメシヤ",
+    "en_name": "Dreepy",
+    "types": [
+      "龍",
+      "幽靈"
+    ]
+  },
+  {
+    "global_id": "#886",
+    "tw_name": "多龍奇",
+    "jp_name": "ドロンチ",
+    "en_name": "Drakloak",
+    "types": [
+      "龍",
+      "幽靈"
+    ]
+  },
+  {
+    "global_id": "#887",
+    "tw_name": "多龍巴魯托",
+    "jp_name": "ドラパルト",
+    "en_name": "Dragapult",
+    "types": [
+      "龍",
+      "幽靈"
+    ]
+  },
+  {
+    "global_id": "#888",
+    "tw_name": "蒼響",
+    "jp_name": "ザシアン",
+    "en_name": "Zacian",
+    "types": [
+      "妖精"
+    ]
+  },
+  {
+    "global_id": "#889",
+    "tw_name": "藏瑪然特",
+    "jp_name": "ザマゼンタ",
+    "en_name": "Zamazenta",
+    "types": [
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#890",
+    "tw_name": "無極汰那",
+    "jp_name": "ムゲンダイナ",
+    "en_name": "Eternatus",
+    "types": [
+      "毒",
+      "龍"
+    ]
+  },
+  {
+    "global_id": "#891",
+    "tw_name": "熊徒弟",
+    "jp_name": "ダクマ",
+    "en_name": "Kubfu",
+    "types": [
+      "格鬥"
+    ]
+  },
+  {
+    "global_id": "#892",
+    "tw_name": "武道熊師",
+    "jp_name": "ウーラオス",
+    "en_name": "Urshifu",
+    "types": [
+      "格鬥",
+      "惡"
+    ]
+  },
+  {
+    "global_id": "#893",
+    "tw_name": "薩戮德",
+    "jp_name": "ザルード",
+    "en_name": "Zarude",
+    "types": [
+      "惡",
+      "草"
+    ]
+  },
+  {
+    "global_id": "#894",
+    "tw_name": "雷吉艾勒奇",
+    "jp_name": "レジエレキ",
+    "en_name": "Regieleki",
+    "types": [
+      "電"
+    ]
+  },
+  {
+    "global_id": "#895",
+    "tw_name": "雷吉鐸拉戈",
+    "jp_name": "レジドラゴ",
+    "en_name": "Regidrago",
+    "types": [
+      "龍"
+    ]
+  },
+  {
+    "global_id": "#896",
+    "tw_name": "雪暴馬",
+    "jp_name": "ブリザポス",
+    "en_name": "Glastrier",
+    "types": [
+      "冰"
+    ]
+  },
+  {
+    "global_id": "#897",
+    "tw_name": "靈幽馬",
+    "jp_name": "レイスポス",
+    "en_name": "Spectrier",
+    "types": [
+      "幽靈"
+    ]
+  },
+  {
+    "global_id": "#898",
+    "tw_name": "蕾冠王",
+    "jp_name": "バドレックス",
+    "en_name": "Calyrex",
+    "types": [
+      "超能力",
+      "草"
+    ]
+  }
+]
