@@ -9,3 +9,5 @@ Visit the site: https://pokezukan.netlify.app/
 
 ## useful resourses
 - [pokemon image](https://pokemondb.net/sprites)
+- [data sheet](https://docs.google.com/spreadsheets/d/1WH2XgFBX50owcpVLAmSKxDdHCqo1c-i5dKQ5w10ykn0/edit?usp=sharing)
+
