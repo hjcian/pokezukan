@@ -78,7 +78,7 @@ function SearchPokemon({ attributesSetter }) {
       loading={loading}
       onResultSelect={(e, data) => {
         dispatch({ type: "UPDATE_SELECTION", selection: data.result.title });
-        console.log("data.result:", data.result);
+
         const attrs = [data.result.attridx1];
         if (data.result.attridx2 >= 0) {
           attrs.push(data.result.attridx2);
