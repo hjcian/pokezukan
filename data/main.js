@@ -1,47 +1,43 @@
-import csv from "csv-parser";
-import fs from "fs";
+import * as CSV from "csv-string";
+import pkg from "flexsearch";
+const { Index } = pkg;
 
-const attributes = [
-  "一般", // 0
-  "格鬥", // 1
-  "飛行", // 2
-  "毒", // 3
-  "地面", // 4
-  "岩石", // 5
-  "蟲", // 6
-  "幽靈", // 7
-  "鋼", // 8
-  "火", // 9
-  "水", // 10
-  "草", // 11
-  "電", // 12
-  "超能力", // 13
-  "冰", // 14
-  "龍", // 15
-  "邪惡", // 16
-  "妖精", // 17
-];
-
-const count = {};
-attributes.forEach((element) => {
-  count[element] = 0;
+const twIndex = new Index({
+  encode: (str) => str.replace(/[\x00-\x7F]/g, "").split(""),
 });
 
-const results = [];
+const rawZukan = `全國,中文,日文,英文,屬性1,屬性2
+#001,妙蛙種子,フシギダネ,Bulbasaur,草,毒
+#002,妙蛙草,フシギソウ,Ivysaur,草,毒
+#003,妙蛙花,フシギバナ,Venusaur,草,毒
+#004,小火龍,ヒトカゲ,Charmander,火,
+#005,火恐龍,リザード,Charmeleon,火,
+#006,噴火龍,リザードン,Charizard,火,飛行
+#007,傑尼龜,ゼニガメ,Squirtle,水,
+#008,卡咪龜,カメール,Wartortle,水,
+#009,水箭龜,カメックス,Blastoise,水,
+#010,綠毛蟲,キャタピー,Caterpie,蟲,
+`;
 
-fs.createReadStream("./data/pokezukan.csv")
-  .pipe(csv())
-  .on("data", (data) => {
-    results.push(data);
-    if (data.屬性1 in count) {
-      count[data.屬性1] += 1;
-    } else if (data.屬性2 in count) {
-      count[data.屬性2] += 1;
-    } else {
-      console.log("BAD!");
-    }
-  })
-  .on("end", () => {
-    // console.log(results);
-    console.log(count);
-  });
+const rows = CSV.parse(rawZukan);
+
+const zukan = {};
+rows.forEach((row, idx) => {
+  if (idx === 0) {
+    return;
+  }
+  zukan[row[0]] = {
+    idx: row[0],
+    tw: row[1],
+    jp: row[2],
+    en: row[3],
+    type1: row[4],
+    type2: row[5],
+  };
+  twIndex.add(row[0], row[1]);
+});
+
+console.log(twIndex.search("妙"));
+twIndex.search("妙").forEach((idx) => {
+  console.log(zukan[idx]);
+});

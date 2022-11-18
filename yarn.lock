@@ -2967,12 +2967,10 @@ cssstyle@^1.0.0, cssstyle@^1.1.1:
   dependencies:
     cssom "0.3.x"
 
-csv-parser@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/csv-parser/-/csv-parser-3.0.0.tgz#b88a6256d79e090a97a1b56451f9327b01d710e7"
-  integrity sha512-s6OYSXAK3IdKqYO33y09jhypG/bSDHPuyCme/IdEHfWpLf/jKcpitVFyOC6UemgGk8v7Q5u2XE0vvwmanxhGlQ==
-  dependencies:
-    minimist "^1.2.0"
+csv-string@^4.1.1:
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/csv-string/-/csv-string-4.1.1.tgz#3ab81c702e15adb3396a9f98c3a703b77a0391cc"
+  integrity sha512-KGvaJEZEdh2O/EVvczwbPLqJZtSQaWQ4cEJbiOJEG4ALq+dBBqNmBkRXTF4NV79V25+XYtiqbco1IWrmHLm5FQ==
 
 cyclist@^1.0.1:
   version "1.0.1"
@@ -4027,6 +4025,11 @@ flatten@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/flatten/-/flatten-1.0.2.tgz#dae46a9d78fbe25292258cc1e780a41d95c03782"
   integrity sha1-2uRqnXj74lKSJYzB54CkHZXAN4I=
+
+flexsearch@^0.7.31:
+  version "0.7.31"
+  resolved "https://registry.yarnpkg.com/flexsearch/-/flexsearch-0.7.31.tgz#065d4110b95083110b9b6c762a71a77cc52e4702"
+  integrity sha512-XGozTsMPYkm+6b5QL3Z9wQcJjNYxp0CYn3U1gO7dwD6PAqU1SVWZxI9CCg3z+ml3YfqdPnrBehaBrnH2AGKbNA==
 
 flush-write-stream@^1.0.0:
   version "1.1.1"
