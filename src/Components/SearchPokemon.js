@@ -74,7 +74,7 @@ function SearchPokemon({ attributesSetter }) {
 
   return (
     <Search
-      placeholder="請輸入守方寶可夢名稱"
+      placeholder="請輸入防守方名稱"
       loading={loading}
       onResultSelect={(e, data) => {
         dispatch({ type: "UPDATE_SELECTION", selection: data.result.title });
