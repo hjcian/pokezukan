@@ -43,8 +43,8 @@ const findAttrIconAndColor = (attr) => {
       color1,
       color2,
     };
-    zukanIdx[row[0]] = pokemon;
-    twIndex.add(row[0], row[1]);
+    zukanIdx[row[0] + row[1]] = pokemon;
+    twIndex.add(row[0] + row[1], row[1]);
   });
 })();
 
